@@ -1,0 +1,1 @@
+Modifiche ed integrazioni alla legge regionale 4 luglio 2017, n. 10 (Disposizioni per la prevenzione delle complicanze, la diagnosi, il trattamento e il riconoscimento della rilevanza sociale dell'endometriosi).
