@@ -1,0 +1,3 @@
+Art. 1 bis. (Criteri di accesso)
+1. La Giunta regionale stabilisce annualmente i criteri per l'accesso ai contributi per il sostegno alla locazione, di cui all' articolo 11 della l. 431/1998 , come modificato dall' articolo 1 della legge 8 febbraio 2001, n. 21 (Misure per ridurre il disagio abitativo ed interventi per aumentare l'offerta di alloggi in locazione), e per la ripartizione delle relative risorse, dandone informazione alla competente Commissione consiliare.
+2. La Giunta regionale determina annualmente la quota parte delle risorse regionali integrative del fondo per il sostegno alla locazione da destinare ad azioni di divulgazione della possibilità di accesso ai contributi.
