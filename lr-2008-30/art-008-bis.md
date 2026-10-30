@@ -1,0 +1,4 @@
+Art. 8 bis. (Gestione dell'amianto nelle infrastrutture della rete acquedottistica regionale)
+1. Gli impianti, di cui al'articolo 2, comma 1, lettera b), comprendono le infrastrutture del sistema acquedottistico. La Giunta regionale definisce linee guida per il prelievo e l'analisi delle acque del sistema acquedottistico al fine della ricerca di fibre di amianto.
+2. La ricognizione delle infrastrutture, prevista dai piani d'ambito di cui all' articolo 149 del decreto legislativo 3 aprile 2006, n. 152 (Norme in materia ambientale), contiene le informazioni relative alla presenza di tubazioni e di altri manufatti contenenti amianto.
+3. La Regione, nell'ambito delle attività di mappatura dell'amianto, acquisisce, aggiorna e pubblica online i dati relativi alla lunghezza complessiva delle tubazioni contenenti amianto mappate nella rete acquedottistica e la loro percentuale rispetto a quelle in altro materiale.
