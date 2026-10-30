@@ -1,0 +1,1 @@
+"Norme di prima attuazione della legge costituzionale 22 novembre 1999, n. 1 "Disposizioni concernenti l'elezione diretta del Presidente della Giunta regionale e l'autonomia statutaria delle Regioni" ".
