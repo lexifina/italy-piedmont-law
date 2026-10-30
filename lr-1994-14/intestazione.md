@@ -1,0 +1,1 @@
+"Modifiche e integrazioni alle leggi regionali 13 ottobre 1972, n. 10, 10 novembre 1972, n. 12, 30 dicembre 1981, n. 57, 23 gennaio 1984, n. 9 e successive modificazioni e integrazioni (Status dei Consiglieri e Gruppi consiliari)."
