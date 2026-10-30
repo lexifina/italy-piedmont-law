@@ -1,0 +1,1 @@
+"Interventi in favore della prevenzione della criminalità. Istituzione della Giornata regionale della memoria e dell'impegno in ricordo delle vittime delle mafie e della Giornata regionale della gratitudine alle forze dell'ordine per il contrasto alle mafie".

@@ -1,0 +1,6 @@
+Art. 7 bis. (Costituzione in giudizio)
+1. La Giunta regionale, nell'ambito delle attività ad essa spettanti ai sensi dell' articolo 56, comma 2 lettera e) dello Statuto , valuta l'adozione di misure legali volte alla tutela dei diritti e degli interessi lesi dalla criminalità organizzata e mafiosa.
+2. É fatto obbligo alla Regione di costituirsi parte civile in tutti quei procedimenti penali, relativi a fatti commessi nel territorio della Regione stessa, in cui sia stata esercitata l'azione penale da parte del Pubblico Ministero attraverso la richiesta di rinvio in giudizio o il decreto di citazione in giudizio contenente imputazioni per i delitti di cui agli articoli 416-bis e 416-ter del codice penale o per i delitti consumati o tentati commessi avvalendosi delle condizioni di cui all' articolo 416-bis del codice penale .
+3. (...)
+4. La Giunta regionale valuta e promuove la costituzione in giudizio dell'ente negli altri procedimenti penali per reati legati alla presenza della criminalità organizzata e mafiosa sul territorio piemontese, al fine di tutelare i diritti e gli interessi lesi della comunità regionale.
+5. La Regione destina le somme liquidate a titolo di risarcimento a seguito della costituzione di parte civile alle iniziative promosse per il raggiungimento degli obiettivi generali della presente legge.
