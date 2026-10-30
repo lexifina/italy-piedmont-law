@@ -1,0 +1,1 @@
+"Ulteriori modifiche ed integrazioni alla legge regionale 17 maggio 1976, n. 28 , modificata dalla legge regionale 18 febbraio 1980, n. 7 , per finanziamenti integrativi a favore di Comuni, Istituti Autonomi per le Case Popolari, Cooperative Edilizie a proprietà indivisa e divisa, nonché Imprese di Costruzione, beneficiari dei finanziamenti per edilizia pubblica residenziale."
