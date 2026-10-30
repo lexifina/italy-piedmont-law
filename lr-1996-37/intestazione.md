@@ -1,0 +1,2 @@
+"Modifiche della legge regionale 26 marzo 1990, n. 13 'Disciplina degli scarichi delle pubbliche fognature e degli scarichi civili ' e riapertura dei termini per la presentazione delle domande di autorizzazione per talune tipologie di scarichi da insediamenti civili equiparati agli esistenti e per gli scarichi delle pubbliche fognature".
+Capo I. MODIFICHE DELLA LEGGE REGIONALE 26 MARZO 1990, N. 13 'DISCIPLINA DEGLI SCARICHI DELLE PUBBLICHE FOGNATURE E DEGLI SCARICHI CIVILI '
