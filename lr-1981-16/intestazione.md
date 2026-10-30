@@ -1,0 +1,1 @@
+"Integrazione agli artt. 26, 39 e 40 della legge regionale 16 gennaio 1973, n. 4 'Iniziativa Popolare e degli Enti Locali e Referendum abrogativo e consultivo ' modificata con legge approvata dal Consiglio Regionale in adunanza del 1 aprile 1981".
