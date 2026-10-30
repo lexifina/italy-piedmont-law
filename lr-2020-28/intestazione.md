@@ -1,0 +1,1 @@
+Modifiche alla legge regionale 5 agosto 2020, n. 19 (Disposizioni in ordine alla specificità montana della provincia del Verbano Cusio Ossola e interventi a favore dei territori montani e delle province piemontesi).
