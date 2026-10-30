@@ -1,0 +1,1 @@
+"Modifiche alla legge regionale 13 ottobre 1972, n. 10 (Determinazione delle indennità spettanti ai membri del Consiglio e della Giunta regionali), come da ultimo modificata dalla legge regionale 29 agosto 2000, n. 50 ".
