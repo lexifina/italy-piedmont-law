@@ -1,0 +1,1 @@
+"Modifiche alle leggi regionali 11 novembre 1998, n. 33 (Nuovo assetto organizzativo dei Gruppi consiliari e modifiche alla normativa sul personale dei Gruppi) e 1 dicembre 1998, n. 39 (Norme sull'organizzazione degli Uffici di Comunicazione e sull'ordinamento del personale assegnato)".
