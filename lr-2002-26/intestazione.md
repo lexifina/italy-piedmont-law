@@ -1,0 +1,1 @@
+"Riconoscimento e valorizzazione della funzione educativa, formativa, aggregatrice e sociale svolta dalle Parrocchie, dagli istituti cattolici e dagli altri enti di culto riconosciuti dallo Stato attraverso le attività di oratorio".
