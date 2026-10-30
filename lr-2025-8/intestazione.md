@@ -1,0 +1,1 @@
+Abrogazione dell'articolo 23 della legge regionale 23 maggio 2008, n. 12 (Legge finanziaria per l'anno 2008) e della legge regionale 31 gennaio 2012, n. 1 (Sostituzione dell'articolo 23 della legge regionale 23 maggio 2008, n. 12 'Legge finanziaria per l'anno 2008').null
