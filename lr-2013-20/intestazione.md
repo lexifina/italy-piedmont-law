@@ -1,0 +1,1 @@
+"Ulteriori modifiche alla legge regionale 6 agosto 2007, n. 18 (Norme per la programmazione socio-sanitaria e il riassetto del servizio sanitario regionale) e disposizioni in materia di trasparenza degli atti delle aziende sanitarie regionali".
