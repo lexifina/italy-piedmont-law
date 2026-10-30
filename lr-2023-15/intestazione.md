@@ -1,0 +1,1 @@
+Disciplina dei sottosegretari e modifiche alla legge regionale 13 ottobre 1972, n. 10 (Determinazione delle indennità spettanti ai membri del Consiglio e della Giunta Regionali) e alla legge regionale 28 luglio 2008, n. 23 (Disciplina dell'organizzazione degli uffici regionali e disposizioni concernenti la dirigenza ed il personale).
