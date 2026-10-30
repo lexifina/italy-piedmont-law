@@ -1,0 +1,1 @@
+"Disposizioni in materia di aggregazione di gruppi consiliari. Integrazioni all' articolo 3 della legge regionale 10 novembre 1972, n. 12 (Funzionamento dei Gruppi consiliari), all' articolo 1 della legge regionale 8 giugno 1981, n. 20 (Assegnazione di personale ai Gruppi consiliari) e norme transitorie in materia di trattamento indennitario dei Consiglieri regionali".
