@@ -1,0 +1,11 @@
+Art. 86 bis. (Istituzione del polo termale dell'acquese)
+1. E' istituito in via sperimentale il polo termale dell'acquese, quale ambito territoriale finalizzato a favorire il complessivo rilancio turistico del comparto idrotermale.
+2. Il polo di cui al comma 1 è localizzato nel territorio del Comune di Acqui Terme e nel territorio dei comuni contermini ove sono presenti aree di giacimento termale.
+3. L'aggiornamento della perimetrazione di cui al comma 2 è operato dalla Giunta regionale con proprio atto ricognitivo in relazione al rilascio, da parte dell'autorità concedente, delle concessioni per lo sfruttamento minerale e termale.
+4. Entro l'ambito territoriale di cui al comma 2 restano ferme le attuali competenze in ordine al rilascio di nuovi permessi di ricerca.
+5. A parziale deroga delle disposizioni di cui all'articolo 86, comma 1, lettera a), le funzioni amministrative per il rilascio e il rinnovo delle concessioni di acqua minerale e termale e il rilascio di concessioni in attuazione di nuovi permessi di ricerca rilasciati dalla Provincia sono delegate, a invarianza di bilancio per la pubblica amministrazione, al comune di Acqui Terme. Se è accertato che il giacimento interessa il territorio di altri comuni, il provvedimento è rilasciato d'intesa tra i medesimi.
+6. Per l'esercizio delle funzioni di cui al comma 5, il comune di Acqui Terme si attiene ai seguenti criteri:
+a) garantisce la tutela della risorsa idrica sotterranea e dei giacimenti termali in un'ottica di preservazione di tali risorse per gli utilizzi futuri e per le prossime generazioni;
+b) assume ogni iniziativa per la valorizzazione del patrimonio regionale e delle proprietà pubbliche presenti, per la riqualificazione urbana e ambientale, nonché per incrementare l'attrattività del territorio;
+c) assegna le concessioni in base ai principi di tutela della concorrenza, libertà di stabilimento, trasparenza e non discriminazione, efficienza ed efficacia dell'azione amministrativa.
+7. Il provvedimento di concessione indica la perimetrazione dell'area di protezione assoluta e dell'area di salvaguardia per la protezione delle acque circolanti ed esplicita i criteri tecnici e le motivazioni a supporto della decisione.
