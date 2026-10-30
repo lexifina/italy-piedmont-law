@@ -1,0 +1,1 @@
+"Modifiche alla legge regionale 15 aprile 1985, n 31 (Disciplina delle strutture ricettive extralberghiere) e alla legge regionale 31 agosto 1979, n 54 (Disciplina dei complessi ricettivi all'aperto)".
