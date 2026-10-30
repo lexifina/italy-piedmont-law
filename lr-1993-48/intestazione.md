@@ -1,0 +1,1 @@
+"Individuazione, ai sensi della legge 8 giugno 1990, n. 142 , delle funzioni amministrative in capo a Province e Comuni in materia di rilevamento, disciplina e controllo degli scarichi delle acque di cui alla legge 10 maggio 1976, n. 319 e successive modifiche ed integrazioni."
