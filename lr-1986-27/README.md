@@ -1,0 +1,10 @@
+# L.R. 17 luglio 1986, n. 27: Definizione delle modalità di corresponsione dei compensi ai componenti le Commissioni di concorso nelle Unità Socio Sanitarie Locali.
+
+L.R. 27/1986 · 1 versions, from 2026-10-30 (latest in force: 2026-10-30) · <https://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:1986;27>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Art. 1 | [art-001.md](art-001.md) | 0 |  |
+| Art. 2 | [art-002.md](art-002.md) | 0 |  |
+| Art. 3 | [art-003.md](art-003.md) | 0 |  |
+| Intestazione | [intestazione.md](intestazione.md) | 0 |  |

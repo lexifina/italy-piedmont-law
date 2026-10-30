@@ -1,0 +1,11 @@
+{
+  "path": "it-21",
+  "code": "IT-21",
+  "name": "Piedmont",
+  "level": "region",
+  "parent": "it",
+  "repo": "https://github.com/lexifina/italy-piedmont-law",
+  "build": "built: statute and regional laws (983 acts, 983 versions) from Arianna (Consiglio regionale del Piemonte) (current text only)",
+  "language": "it",
+  "sources": 1
+}

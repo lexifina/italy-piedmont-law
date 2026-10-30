@@ -1,0 +1,13 @@
+The law texts in this repository are official texts of the region of Piedmont (Regione Piemonte, Italy), taken from
+Arianna (Consiglio regionale del Piemonte), https://arianna.cr.piemonte.it/.
+
+Italian copyright law does not protect them. Legge 22 aprile 1941, n. 633 (protezione del diritto d'autore), art. 5: "Le disposizioni di questa legge non si applicano ai testi degli atti ufficiali dello Stato e delle amministrazioni pubbliche, sia italiane che straniere." (This law does not apply to the texts of the official acts of the State and of public administrations, Italian or foreign.)
+
+The dataset is published by Regione Piemonte under the Creative Commons Attribution 4.0 licence, https://creativecommons.org/licenses/by/4.0/. Arianna's own pages carry a CC BY-NC-SA 3.0 IT notice for the site's content; the law texts themselves are official acts outside copyright (art. 5 above).
+
+The source is credited as it asks: Source: Consiglio regionale del Piemonte, Arianna - Banca Dati Normativa, https://arianna.cr.piemonte.it/ (open dataset "Arianna - Leggi regionali storiche e vigenti, regolamenti regionali", Regione Piemonte, CC BY 4.0) (consulted 2026-10-30).
+
+This repository is not an official publication. The binding text is the one published in the Bollettino Ufficiale della Regione Piemonte.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
