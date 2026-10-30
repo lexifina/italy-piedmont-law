@@ -1,0 +1,1 @@
+"Modificazioni all' articolo 1 della legge regionale 1 dicembre 1998, n. 39 "Norme sull'organizzazione degli uffici di comunicazione e sull'ordinamento del personale assegnato" così come modificata dalla legge regionale 13 ottobre 1999, n. 26 ".
