@@ -1,0 +1,2 @@
+Art. 5 bis. (Promozione dei prodotti delle aree protette)
+1. La Regione, nella volontà di sostenere l'economia delle imprese presenti all'interno delle aree protette e della rete Natura 2000, promuove, anche con la collaborazione dei Gruppi di Azione Locale (GAL), delle associazioni datoriali o di soggetti terzi, i prodotti agricoli, artigianali o comunque relativi all'area naturale protetta, anche attraverso la valorizzazione di specifici marchi.

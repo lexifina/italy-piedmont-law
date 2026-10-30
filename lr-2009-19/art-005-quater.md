@@ -1,0 +1,4 @@
+Art. 5 quater. (Biglietto di ingresso e tariffe dei servizi)
+1. Gli enti gestori delle aree protette possono, d'intesa con la comunità del parco e previa comunicazione motivata alla Regione, introdurre biglietti di ingresso per l'intera area protetta o una parte di essa, quali il transito su strade bianche e piste forestali, o introdurre tariffe per servizi che l'ente gestore eroga.
+1 bis. Sono esenti dal pagamento del biglietto di ingresso e transito i proprietari dei terreni e gli aventi titolo su di essi, nonché altre categorie individuate dagli enti gestori.
+2. Le risorse derivanti dall'applicazione del comma 1 risultano come risorse aggiuntive prioritariamente destinate ad attività di promozione territoriale e incremento occupazionale dei residenti all'interno dei comuni dell'area protetta.

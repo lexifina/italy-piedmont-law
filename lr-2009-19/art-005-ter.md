@@ -1,0 +1,12 @@
+Art. 5 ter. (Misure di incentivazione)
+1. 1. Ai comuni e alle province il cui territorio è compreso, in tutto o in parte, entro i confini di un'area protetta regionale è, nell'ordine, attribuita priorità nella concessione di finanziamenti statali e regionali richiesti per la realizzazione, sul territorio, compreso entro i confini del parco stesso, dai seguenti interventi, impianti e opere compatibili con il piano d'area e previsti dal piano pluriennale economico e sociale:
+a) restauro dei centri storici ed edifici di particolare valore storico e culturale;
+b) recupero dei nuclei abitati rurali;
+c) opere igieniche e idropotabili e di risanamento dell'acqua, dell'aria e del suolo;
+d) opere di conservazione e di restauro ambientale del territorio, ivi comprese le attività agricole e forestali;
+e) attività culturali nei campi di interesse del parco;
+f) agriturismo;
+g) attività sportive compatibili;
+h) strutture per l'utilizzazione di fonti energetiche a basso impatto ambientale quali il metano e altri gas combustibili, nonché interventi volti a favorire l'uso di energie rinnovabili in un'ottica di filiera corta, quale la filiera legno-energia di prossimità nei comuni montani piemontesi.
+2. Il medesimo ordine di priorità di cui al comma 1 è attribuito ai privati, singoli o associati, che intendono realizzare iniziative produttive o di servizio compatibili con le finalità istitutive dell'area protetta interessata.
+2 bis. Al fine di garantire l'integrazione ambientale e paesaggistica, gli interventi di cui ai commi 1 e 2 sono incentivati privilegiando l'utilizzo di materiali della tradizione anche attraverso recuperi innovativi, nel rispetto delle indicazioni dei piani d'area e della pianificazione paesaggistica regionale.
