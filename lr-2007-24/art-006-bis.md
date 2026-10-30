@@ -1,0 +1,12 @@
+Art. 6 bis. (Aree montane a raccolta limitata)
+1. Ai sensi dell'articolo 3, comma 2 ter, le unioni montane di comuni, al fine di regolamentare la raccolta in rapporto alle caratteristiche dell'economia locale e per il mantenimento dell'equilibrio dell'ecosistema, possono individuare aree di raccolta accessibili a un numero limitato di persone e previo pagamento di un titolo aggiuntivo per la raccolta.
+2. L'individuazione delle aree a raccolta limitata avviene previo accordo tra l'unione montana e i comuni competenti per territorio e mediante apposito regolamento.
+3. L'accesso per la raccolta dei funghi ipogei nelle aree di cui al comma 1 è soggetta al rispetto del regolamento predisposto dall'unione montana, in accordo con i comuni territorialmente competenti e coerentemente con il piano di gestione e fruizione che deve essere appositamente redatto per ciascuna area.
+4. La raccolta all'interno delle aree di cui al comma 1 è limitata a un numero di persone individuato dall'unione montana sulla base delle indicazioni ambientali definite dal piano di gestione e fruizione di cui al comma 3, al fine di garantire una pressione antropica congrua alle caratteristiche territoriali e per limitare gli effetti dannosi per l'ambiente e gli ecosistemi coinvolti.
+5. L'accesso alle aree di cui al comma 1 per lo svolgimento dell'attività di raccolta è consentito previa verifica del rispetto delle limitazioni numeriche di accesso e mediante l'acquisizione di apposito titolo oneroso per la raccolta, aggiuntivo al titolo di cui all'articolo 3.
+6. Il titolo oneroso per la raccolta può essere di valore giornaliero o settimanale e gli introiti derivanti devono essere investiti dall'unione montana nel territorio del comune su cui le aree di cui al comma 1 insistono, in accordo con i comuni stessi.
+7. Il costo dei titoli di raccolta per le aree di cui al comma 1 sono definiti annualmente dall'unione montana e possono essere acquisiti solo previo possesso del titolo di cui all'articolo 3, di durata non inferiore.
+8. Le unioni montane, in accordo con i comuni territorialmente competenti, possono prevedere il rilascio di titoli a prezzo ridotto, ovvero garantire l'accesso senza costi aggiuntivi rispetto al titolo di cui all'articolo 3 alle seguenti categorie:
+a) residenti, proprietari di immobili e terreni all'interno dei comuni in cui gravitano le aree oggetto di acquisto del titolo;
+b) residenti nell'unione montana;
+c) fasce giovanili della popolazione.
