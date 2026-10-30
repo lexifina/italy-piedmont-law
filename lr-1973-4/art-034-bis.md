@@ -1,0 +1,2 @@
+Art. 34 bis. (Deroghe di termini per cause di forza maggiore)
+1. Nel caso in cui, per sopravvenute cause di forza maggiore, non possa farsi luogo alla consultazione per la data fissata nel decreto di cui al comma 1 dell'articolo 34, il Presidente della Giunta regionale ne dispone il rinvio con proprio decreto, anche in deroga alle date previste da tale disposizione, nel rispetto della tempistica degli adempimenti preelettorali previsti dalla normativa vigente.

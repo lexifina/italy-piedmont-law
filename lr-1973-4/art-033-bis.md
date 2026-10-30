@@ -1,0 +1,3 @@
+Art. 33 bis.
+Non è richiesto il referendum per le determinazioni ed eventuali rettifiche di confine tra Comuni per mancanza di delimitazione naturale o per obiettiva incertezza nonchè per le rettifiche di confine tra Comuni per ragioni topografiche, quando tutti i Consigli Comunali interessati ne fanno domanda e ne fissano d'accordo le condizioni.
+Non è altresì richiesto il referendum, quando si tratta di termini o locuzioni aggiuntive alla denominazione principale del Comune ed il Consiglio Comunale interessato ne fa richiesta con la maggioranza dei due terzi dei Consiglieri assegnati al Comune.
