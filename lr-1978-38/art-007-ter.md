@@ -1,0 +1,2 @@
+Art. 7 ter.
+Nelle zone ove siano individuati, a cura dei servizi tecnici regionali, territori di natura instabile o che comunque presentino rischio geologico per l'insediamento di abitati, ogni provvedimento di concessione edilizia o il mantenimento in essere di concessione edilizia rilasciata prima dell'evento calamitoso, è sottoposto al parere delle strutture regionali competenti in materia geologica ed idrogeologica.
