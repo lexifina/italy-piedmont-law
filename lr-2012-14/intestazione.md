@@ -1,0 +1,1 @@
+"Modifiche ed integrazioni alla legge regionale 28 settembre 2012 n. 11 (Disposizioni organiche in materia di enti locali). Modifiche alla legge regionale 2 luglio 1999, n. 16 (Testo unico delle leggi sulla montagna)".
