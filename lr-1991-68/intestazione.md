@@ -1,0 +1,1 @@
+"Modifica degli artt. 4 e 5 della L.R. 25 agosto 1987, n. 41 'Interventi nei confronti di associazioni ed Enti, a struttura associativa, finalizzati al sostegno delle attività svolte a favore dei cittadini disabili '".
