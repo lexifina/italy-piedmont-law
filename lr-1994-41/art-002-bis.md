@@ -1,0 +1,3 @@
+Art. 2 bis. (Accompagnatore di media montagna)
+1. È accompagnatore di media montagna chi svolge professionalmente, anche in modo non esclusivo e non continuativo, l'attività di accompagnamento in escursioni su terreno montano, con l'esclusione delle zone rocciose, dei ghiacciai, dei terreni innevati e di tutti gli itinerari che richiedono per la progressione l'uso di tecniche e di materiali alpinistici ed illustra alle persone accompagnate le caratteristiche dell'ambiente montano percorso.
+2. Le guide alpine maestri di alpinismo e le aspiranti guide possono svolgere le attività di accompagnatore di media montagna.
