@@ -1,0 +1,1 @@
+Modifiche all'articolo 14 bis della legge regionale 12 novembre 1999, n. 28 (Disciplina, sviluppo e incentivazione del commercio in Piemonte, in attuazione deldecreto legislativo 31 marzo 1998, n. 114).
