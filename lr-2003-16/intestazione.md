@@ -1,0 +1,1 @@
+"Interventi speciali in favore di piccole e medie imprese commerciali, artigiane e di servizi economicamente danneggiate dai cantieri per la realizzazione della metropolitana, del passante ferroviario e delle infrastrutture per i XX Giochi olimpici invernali 'Torino 2006 ' ".
