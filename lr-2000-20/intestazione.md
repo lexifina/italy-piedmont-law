@@ -1,0 +1,1 @@
+"Integrazione della legge regionale 15 aprile 1985, n. 31 "Disciplina delle strutture ricettive extralberghiere" e modifica della legge regionale 8 luglio 1999, n. 18 "Interventi regionali a sostegno dell'offerta turistica" ".
