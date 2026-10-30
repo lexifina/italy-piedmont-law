@@ -1,0 +1,1 @@
+"Disposizioni in campo energetico. Procedure di formazione del piano regionale energetico-ambientale. Abrogazione delle leggi regionali 23 marzo 1984, n. 19, 17 luglio 1984, n. 31 e 28 dicembre 1989, n. 79".
