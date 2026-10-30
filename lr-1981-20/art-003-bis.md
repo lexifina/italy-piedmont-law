@@ -1,0 +1,2 @@
+Art. 3 bis. (Contratti a tempo determinato)
+1. Il trattamento economico onnicomprensivo del personale di cui all'articolo 3, comma 1, assunto con contratto a tempo determinato di diritto privato, a tempo pieno o parziale, è stabilito dal Presidente del gruppo o dal singolo componente del gruppo misto tenendo conto dei trattamenti tabellari previsti dal vigente CCNL e dei valori minimi e massimi del trattamento accessorio stabilito dalla contrattazione collettiva per il personale regionale, in relazione alle prestazioni richieste.

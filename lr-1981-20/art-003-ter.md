@@ -1,0 +1,2 @@
+Art. 3 ter. (Contratti di lavoro autonomo)
+1. I contratti di lavoro autonomo di cui all'articolo 3, comma 1, sono stipulati, nel rispetto dei requisiti e dei presupposti di legittimità previsti dall'articolo 7, commi 5 bis e 6, del decreto legislativo 30 marzo 2001, n. 165 (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), in quanto compatibili e non possono avere per oggetto l'affidamento di incarichi di studio e consulenza. Il trattamento economico è stabilito in relazione alle prestazioni richieste.
