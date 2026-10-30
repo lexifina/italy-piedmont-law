@@ -1,0 +1,1 @@
+"Nuova determinazione del gettone di presenza da riconoscere a componenti della Commissione tecnica urbanistica (CTU), del Comitato regionale per le opere pubbliche (CROOPP) e della Commissione regionale per i Beni culturali e ambientali (CRBC e A.)".
