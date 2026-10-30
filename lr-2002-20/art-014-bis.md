@@ -1,0 +1,5 @@
+Art. 14 bis (Canone aggiuntivo per le concessioni di grandi derivazioni idroelettriche scadute)
+1. A decorrere dall'annualità 2019 è dovuto un canone annuo aggiuntivo per le concessioni di grandi derivazioni idroelettriche scadute e in attesa di nuova assegnazione. Il canone annuo aggiuntivo è dovuto per anno solare ed è versato, anticipatamente, nel periodo compreso tra il 1° gennaio e il 31 gennaio dell'anno di riferimento.
+2. Il canone decorre improrogabilmente dal giorno successivo alla data di scadenza della concessione ed è dovuto fino alla data di nuova assegnazione.
+3. Per la prima annualità e per l'annualità in cui la concessione è assegnata, il canone è dovuto in ragione di ratei mensili; la frazione del mese uguale o superiore a quindici giorni deve intendersi per intero.
+4. Il canone di cui al comma 1 è dovuto anche qualora l'utente non faccia o non possa far uso, in tutto o in parte, della concessione, salvo il diritto di rinuncia cui consegue la liberazione del pagamento del canone con decorrenza dall'annualità successiva a quella in cui è stata effettuata la rinuncia.
