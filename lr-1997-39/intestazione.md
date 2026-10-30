@@ -1,0 +1,1 @@
+"Modificazioni alla legge regionale 7 marzo 1989, n. 15 (Individuazione negli strumenti urbanistici generali di aree destinate ad attrezzature religiose - Utilizzo da parte dei Comuni del fondo derivante dagli oneri di urbanizzazione e contributi regionali per gli interventi relativi agli edifici di culto e pertinenze funzionali all'esercizio del culto stesso)".
