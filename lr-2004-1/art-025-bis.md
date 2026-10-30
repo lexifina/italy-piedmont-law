@@ -1,0 +1,3 @@
+Art. 25 bis. (Obbligatorietà di caricamento sulla piattaforma regionale della residenzialità)
+1. Le strutture residenziali e semiresidenziali, socio-sanitarie e socio-assistenziali sono tenute ad accreditarsi sulla piattaforma regionale della residenzialità, al fine di comunicare idonee informazioni sulla situazione sanitaria delle strutture.
+2. Le aziende sanitarie e gli enti gestori competenti territorialmente devono vigilare sul corretto adempimento di tale obbligo e porre in essere le misure necessarie, affinché il mancato rispetto di quanto previsto dal comma 1 sia sanzionato ai sensi dell'articolo 30.
