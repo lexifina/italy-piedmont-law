@@ -1,0 +1,1 @@
+"Istituzione dell'anagrafe delle cariche pubbliche elettive e di Governo della Regione e del Sistema informativo sul finanziamento e sulla trasparenza dell'attività dei gruppi consiliari e disposizioni in materia di società ed enti istituiti, controllati, partecipati e dipendenti da parte della Regione".
