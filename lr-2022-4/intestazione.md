@@ -1,0 +1,1 @@
+Disposizioni in materia di addizionale regionale IRPEF di adeguamento all'articolo 1, commi 2 e 5, della legge 30 dicembre 2021, n. 234 (Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024).null
