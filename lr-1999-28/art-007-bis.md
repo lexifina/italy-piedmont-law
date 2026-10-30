@@ -1,0 +1,2 @@
+Art. 7 bis. (Applicazioni di disposizioni urbanistiche regionali)
+1. La Giunta regionale stabilisce, con propria deliberazione, le modalità di svolgimento del procedimento amministrativo di autorizzazione regionale, di cui all'articolo 26, commi 7, 8, 9, 10 e 11 della l.r. 56/1977 , ed il termine di conclusione, comunque non superiore a 120 giorni, entro il quale l'istanza deve ritenersi accolta qualora non venga comunicato il provvedimento di diniego.

@@ -1,0 +1,4 @@
+Art. 18 quinquies. (Definizioni di mercato di valore storico e di tradizione)
+1. Ai fini del presente capo si definiscono:
+a) mercati di valore storico: i mercati e le altre forme di commercio su area pubblica che si svolgono da almeno quarant'anni, anche in modo non continuativo, a condizione che siano rispettate le caratteristiche architettoniche e storiche del luogo di insediamento, nonché rimangano inalterate la tipologia di attività e di settore merceologico;
+b) mercati di valore storico di tradizione: i mercati e le altre forme di commercio su area pubblica insediati negli addensamenti storici rilevanti e secondari, che si svolgono da almeno settant'anni, anche in modo non continuativo, a condizione che siano rispettate le caratteristiche architettoniche e storiche del luogo di insediamento, nonché rimangano inalterate la tipologia di attività e di settore merceologico.

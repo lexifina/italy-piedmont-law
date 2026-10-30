@@ -1,0 +1,5 @@
+Art. 11. 4. (Disposizioni generali sui controlli di regolarità)
+1. La Regione favorisce, secondo i principi di cui al decreto legislativo 7 marzo 2005, n. 82 (Codice dell'amministrazione digitale) e, in particolare, secondo i contenuti dell'articolo 50 del medesimo decreto, la gestione in via telematica degli adempimenti relativi alla carta di esercizio e all'attestazione annuale di regolarità.
+2. La Regione può stipulare apposite intese con le amministrazioni competenti per una maggiore efficienza operativa ed una maggiore efficacia delle disposizioni della presente legge relative alla regolarità delle imprese del commercio su area pubblica.
+3. Per i medesimi fini indicati al comma 2, i comuni possono delegare, mediante apposite convenzioni a titolo gratuito, lo svolgimento di attività tecnico gestionali di supporto, alle associazioni di categoria maggiormente rappresentative.
+4. La Giunta regionale, ai sensi dell'articolo 11, comma 1, lettera f), e con le modalità ivi previste, adotta i criteri e le disposizioni di attuazione, anche in riferimento al regime transitorio e finale nella fase di prima applicazione.
