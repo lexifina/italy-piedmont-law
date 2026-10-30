@@ -1,0 +1,1 @@
+Modifiche ed integrazioni alla legge regionale 10 novembre 1972, n. 12 (Funzionamento dei Gruppi consiliari) e alla legge regionale 1 dicembre 1998, n. 39 (Norme sull'organizzazione degli uffici di comunicazione e sull'ordinamento del personale assegnato).
