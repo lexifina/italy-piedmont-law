@@ -1,0 +1,1 @@
+Norme regionali in materia di espropriazione per pubblica utilità. Modifiche alla legge regionale 26 gennaio 2009, n. 2 (Norme in materia di sicurezza nella pratica degli sport montani invernali ed estivi e disciplina dell'attività di volo in zone di montagna).
