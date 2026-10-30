@@ -1,0 +1,1 @@
+"Delega o subdelega delle funzioni amministrative sanzionatorie in materia di igiene alimenti e bevande, sostanze destinate all'alimentazione, sanità pubblica e veterinaria, disciplina dell'attività urbanistico-edilizia".
