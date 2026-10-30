@@ -1,0 +1,2 @@
+Art. 1 bis. (Finalità)
+1. L'attività del Centro Gianni Oberto (di seguito Centro) è finalizzata a salvaguardare e promuovere il patrimonio culturale piemontese, compreso quello delle minoranze linguistiche, attraverso la raccolta e la conservazione di materiale di interesse storico e letterario presente sul territorio e la promozione di attività di studio, ricerca, informazione, cooperazione e sensibilizzazione.
