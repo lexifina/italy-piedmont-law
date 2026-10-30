@@ -1,0 +1,1 @@
+"Compensi spettanti ai componenti della Commissione di cui alla legge regionale 20 dicembre 1990, n. 55 - Titolo II 'Commissione consultiva per i procedimenti di iniziativa legislativa popolare e degli enti locali e di referendum ' ".
