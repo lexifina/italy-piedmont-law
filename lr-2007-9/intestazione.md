@@ -1,0 +1,3 @@
+"Legge finanziaria per l'anno 2007".
+Capo I. DISPOSIZIONI FINANZIARIE
+Sezione I. INTERVENTI I N MATERIA DI BILANCIO
