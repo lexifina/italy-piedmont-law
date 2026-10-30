@@ -1,0 +1,1 @@
+Rideterminazione degli assegni vitalizi in attuazione dell'articolo 1, commi 965, 966 e 967 della legge 30 dicembre 2018, n. 145 (Bilancio di previsione dello Stato per l'anno finanziario 2019 e bilancio pluriennale per il triennio 2019 - 2021).
