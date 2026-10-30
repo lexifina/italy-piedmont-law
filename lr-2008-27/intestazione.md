@@ -1,0 +1,1 @@
+"Modifica della legge regionale 7 agosto 2006, n. 30 'Istituzione del Consiglio delle Autonomie locali (CAL) e modifiche alla legge regionale 20 novembre 1998, n. 34 (Riordino delle funzioni e dei compiti amministrativi della Regione e degli Enti locali)' ".
