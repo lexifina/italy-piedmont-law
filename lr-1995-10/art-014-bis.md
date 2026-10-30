@@ -1,0 +1,3 @@
+Art. 14 bis. (Controllo societario e di gestione e obbligo di certificazione del bilancio)
+1. La Giunta regionale, annualmente, può attribuire al Collegio sindacale ulteriori funzioni di controllo rispetto a quelle previste dalla normativa vigente, mediante la predisposizione di un piano che individua aree prioritarie oggetto di controllo, con relazioni periodiche sulle evidenze emerse.
+2. Al completamento del percorso attuativo della certificabilità, assistito e verificato dalle competenti strutture regionali e ministeriali, la Giunta regionale, con procedure ad evidenza pubblica, incarica, per la revisione dei bilanci, una primaria società di revisione iscritta al registro dei revisori presso il Ministero dell'economia e finanza.

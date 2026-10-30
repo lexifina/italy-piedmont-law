@@ -1,0 +1,12 @@
+Art. 12 bis. (Collegio di direzione)
+1. Presso ogni azienda sanitaria regionale è istituito, quale organo dell'azienda, il Collegio di direzione.
+2. Il Collegio di direzione esercita le seguenti funzioni:
+a) concorre al governo delle attività cliniche;
+b) partecipa alla pianificazione delle attività, incluse la ricerca, la didattica ed i programmi di formazione;
+c) indica le soluzioni organizzative per l'attuazione dell'attività libero-professionale intramuraria.
+3. La partecipazione alla pianificazione delle attività di ricerca e didattica avviene, in seno alle aziende ospedaliero universitarie, nell'ambito di quanto definito dall'Università.
+4. Il Collegio di direzione concorre, inoltre, allo sviluppo organizzativo e gestionale delle aziende, con particolare riferimento all'individuazione di indicatori di risultato clinico-assistenziale e di efficienza, nonché dei requisiti di appropriatezza e di qualità delle prestazioni. Partecipa, altresì, alla valutazione interna dei risultati conseguiti in relazione agli obiettivi prefissati ed è consultato obbligatoriamente dal direttore generale su tutte le questioni attinenti al governo delle attività cliniche.
+5. La Giunta regionale definisce la composizione ed il funzionamento del Collegio di direzione, in modo da garantire la partecipazione di tutte le figure professionali presenti nell'azienda, prevedendo la partecipazione del direttore sanitario, del direttore socio sanitario e del direttore amministrativo, dei direttori di dipartimento e dei direttori di presidio, fatte salve le disposizioni, in materia di aziende costituite da un unico presidio, di cui all'articolo 3, comma 7 del d.lgs. 502/1992.
+6. La composizione del Collegio di direzione nelle aziende sanitarie locali è integrata con la partecipazione dei direttori dei distretti alle stesse afferenti.
+7. Le modalità di funzionamento, la convocazione periodica, nonché i rapporti tra il Collegio di direzione e gli altri organi delle aziende sanitarie regionali sono disciplinati nei rispettivi atti aziendali, in conformità alle indicazioni generali impartite dalla Giunta regionale.
+8. Ai componenti del Collegio di direzione non spetta alcun emolumento, compenso, indennità o rimborso spese.
