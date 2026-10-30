@@ -1,0 +1,1 @@
+"Attuazione del D.P.R. 17 maggio 1988, n. 175 , relativo al recepimento della Direttiva CEE n. 82/501, inerente i rischi di incidenti rilevanti connessi con determinate attività industriali - Disciplina delle funzioni di competenza regionale."
