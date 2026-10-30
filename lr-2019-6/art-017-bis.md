@@ -1,0 +1,4 @@
+Art. 17 bis. (Istituzione della Giornata regionale del divertimento in sicurezza)
+1. La Regione istituisce la Giornata regionale del divertimento in sicurezza, da celebrarsi annualmente al fine di promuovere la cultura della sicurezza, della legalità e del rispetto reciproco nei contesti di svago e intrattenimento, con particolare attenzione alle giovani generazioni.
+2. In occasione di tale giornata, la Regione, in collaborazione con enti locali, istituzioni scolastiche, associazioni del terzo settore e altri soggetti interessati, promuove e sostiene iniziative volte a sensibilizzare la cittadinanza e gli operatori del settore sui temi della prevenzione, del consumo responsabile e della sicurezza nei luoghi di divertimento.
+3. Le attività previste per la Giornata di cui al comma 1 sono realizzate nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri a carico del bilancio regionale.
