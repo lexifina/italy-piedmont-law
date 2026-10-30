@@ -1,0 +1,1 @@
+Disciplina dello stemma, del gonfalone, dell'inno, del sigillo, della bandiera e della fascia della Regione Piemonte. Abrogazione delle leggi regionali 16 gennaio 1984, n. 4, 24 novembre 1995, n. 83, 17 giugno 1997, n. 36.
