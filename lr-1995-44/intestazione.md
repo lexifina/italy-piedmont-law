@@ -1,0 +1,1 @@
+"Rideterminazione della dotazione organica dell'I.R.E.S. - Modificazione alla L.R. 3 settembre 1991, n. 43 , recante 'Nuova disciplina dell'Istituto Ricerche economico sociali del Piemonte I.R.E.S. ' - Abrogazione della L.R. 18 febbraio 1985, n. 12 ."
