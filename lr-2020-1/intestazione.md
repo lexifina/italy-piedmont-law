@@ -1,0 +1,1 @@
+Intesa interregionale tra le regioni Emilia Romagna, Lombardia, Veneto e Piemonte, per l'esercizio delle funzioni amministrative regionali in materia di navigazione interna sul fiume Po e idrovie collegate. Ratifica ai sensi dell' articolo 117, comma ottavo della Costituzione .
