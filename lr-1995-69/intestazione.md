@@ -1,0 +1,1 @@
+"Modifiche ed integrazioni alla normativa sullo status dei Consiglieri e sui Gruppi consiliari ( L.R. 13 ottobre 1972, n. 10 , L.R. 10 novembre 1972, n. 12 , L.R. 23 gennaio 1984, n. 9 , L.R. 18 giugno 1981, n. 20 , L.R. 30 dicembre 1981, n. 57 e successive modifiche ed integrazioni)."
