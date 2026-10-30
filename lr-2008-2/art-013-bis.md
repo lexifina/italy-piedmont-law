@@ -1,0 +1,2 @@
+Art. 13 bis. (Interventi regionali in materia di vigilanza e soccorso alle unità in navigazione)
+1. La Regione, fatte salve le competenze in materia di sicurezza conferite ai comuni e alle gestioni associate, di concerto con lo Stato o con soggetti pubblici, può concorrere alla spesa per la realizzazione di idonei servizi atti a garantire la vigilanza e un adeguato soccorso alle unità di navigazione.
