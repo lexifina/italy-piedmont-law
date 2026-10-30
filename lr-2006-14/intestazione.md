@@ -1,0 +1,3 @@
+"Legge finanziaria per l'anno 2006".
+Capo I. DISPOSIZIONI FINANZIARIE
+Sezione I. INTERVENTI IN MATERIA DI ENTRATE
