@@ -1,0 +1,1 @@
+"Modifiche della legge regionale 12 novembre 1999, n. 28 (Disciplina, sviluppo ed incentivazione del commercio in Piemonte, in attuazione del decreto legislativo 31 marzo 1998 n. 114 ), in materia di vendite di fine stagione e promozionali".
