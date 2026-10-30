@@ -1,0 +1,9 @@
+Art. 5 ter. (Collaborazione con l''Associazione Banco farmaceutico Torino OdV)
+1. La Giunta regionale promuove e sostiene la realizzazione di un programma triennale di interventi proposto dall'Associazione Banco farmaceutico Torino OdV, che persegue i seguenti obiettivi:
+a) promozione dello sviluppo della cultura contro lo spreco dei prodotti sanitari e farmaceutici, attraverso il recupero dei farmaci validi non scaduti, per sostenere le attività di raccolta di prodotti sanitari e farmaceutici e la loro redistribuzione capillare alle strutture caritatevoli, solidaristiche e di prossimità;
+b) sollecitare il territorio alla donazione di farmaci, parafarmaci, presidi e beni di salute al fine di incrementare la loro raccolta e la successiva distribuzione agli enti beneficiari;
+c) potenziare le attività di recupero di farmaci validi non scaduti;
+d) migliorare le procedure di raccolta, stoccaggio e ridistribuzione dei beni raccolti e donati;
+e) sviluppare le attività di raccolta di farmaci da banco e di altri prodotti sanitari.
+2. I rapporti tra la Regione e l'Associazione Banco farmaceutico Torino OdV sono disciplinati da apposita convenzione, approvata nei suoi elementi essenziali dalla Giunta regionale e stipulata dal direttore regionale competente.
+3. La convenzione di cui al comma 2 prevede, in particolare, modalità e tempi per la realizzazione degli interventi e dei servizi resi dall'Associazione Banco farmaceutico Torino OdV, per la verifica dello svolgimento degli stessi e per l'erogazione del contributo regionale.
