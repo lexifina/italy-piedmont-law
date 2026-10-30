@@ -1,0 +1,1 @@
+Modifiche alla legge regionale 8 giugno 1981, n. 20 (Assegnazione di personale ai Gruppi consiliari) e alla legge regionale 1 dicembre 1998, n. 39 (Norme sull'organizzazione degli uffici di comunicazione e sull'ordinamento del personale assegnato).
