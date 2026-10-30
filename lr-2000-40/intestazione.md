@@ -1,0 +1,1 @@
+"Sospensione nel periodo feriale dei termini previsti dalla legge regionale 23 marzo 1995, n. 39 , "Criteri e disciplina delle nomine ed incarichi pubblici di competenza regionale e dei rapporti tra la Regione ed i soggetti nominati", modificata dalla legge regionale 4 agosto 1997, n. 42 ".
