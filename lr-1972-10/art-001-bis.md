@@ -1,0 +1,4 @@
+Art. 1 bis (Assegno in caso di sospensione)
+1. Per la corresponsione dell'assegno, di cui all' art. 4 ter della legge 19 marzo 1990, n. 55 e successive modificazioni ed integrazioni in materia di elezioni e nomine presso le Regioni e gli Enti locali, introdotto dall' art. 1, comma 1, della legge 18 gennaio 1992, n. 16 , come sostituito dall' art. 2 della legge 12 gennaio 1994, n. 30 , la percentuale di riduzione dell'indennità di carica è fissata nella misura del 50 per cento.
+2. Per il Consigliere sospeso a norma della legge 19 marzo 1990, n. 55 e successive modificazioni ed integrazioni non si fà luogo alla corresponsione dei rimborsi spese previsti dall'art. 2.
+3. Al Consigliere, che è stato sospeso, in caso di provvedimento definitivo di proscioglimento è corrisposto, con riferimento al periodo di sospensione, un assegno pari alla differenza tra l'assegno erogato a norma del primo comma e l'indennità ad esso spettante.
