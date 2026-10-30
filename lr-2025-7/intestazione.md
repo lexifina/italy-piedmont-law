@@ -1,0 +1,1 @@
+Modifiche alla legge regionale 5 dicembre 1977, n. 56 (Tutela ed uso del suolo) e alla legge regionale 4 ottobre 2018, n. 16 (Misure per il riuso, la riqualificazione dell'edificato e la rigenerazione urbana).null
