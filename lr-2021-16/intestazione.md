@@ -1,0 +1,1 @@
+Modifiche alla legge regionale 1 ottobre 2020, n. 23 (Norme in materia di promozione e di impiantistica sportiva) e istituzione delle giornate in memoria del Grande Torino, del Quadrilatero piemontese e delle Vittime dell'Heysel
