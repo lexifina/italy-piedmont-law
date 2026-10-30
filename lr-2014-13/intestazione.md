@@ -1,0 +1,1 @@
+"Nuove modalità gestionali, organizzative e di funzionamento dell'Istituto zooprofilattico sperimentale del Piemonte, della Liguria e della Valle d'Aosta. Abrogazione della legge regionale 25 luglio 2005, n. 11 ".
