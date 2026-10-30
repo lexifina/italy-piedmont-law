@@ -1,0 +1,2 @@
+"Modifiche alla legge regionale 28 luglio 2008, n. 23 (Disciplina dell'organizzazione degli uffici regionali e disposizioni concernenti la dirigenza e il personale) in attuazione del decreto legislativo 27 ottobre 2009, n. 150 e adeguamento al decreto legge 31 maggio 2010, n. 78 convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122 , in materia di organizzazione e contenimento della spesa del personale".
+Capo I. MODIFICHE ALLA LEGGE REGIONALE DEL 28 LUGLIO 2008, N. 23
