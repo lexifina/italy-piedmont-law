@@ -1,0 +1,1 @@
+"Modifiche alla legge regionale 4 settembre 1996, n. 73 (Finanziamento Residenze assistenziali, flessibili, Residenze sanitarie assistenziali, e interventi di manutenzione straordinaria alle strutture sanitarie)".
