@@ -1,0 +1,1 @@
+"Soppressione Osservatori regionali".
