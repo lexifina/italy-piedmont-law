@@ -1,0 +1,1 @@
+"Norme per l'esercizio delle funzioni amministrative, trasferite o delegate alla Regione ai sensi dell' art. 64 del D.P.R. 24 luglio 1977, n. 616 e attualmente svolte dalle Camere di Commercio, Industria, Artigianato ed Agricoltura, relative alle materie 'Fieré e 'Distributori di carburanti '."
