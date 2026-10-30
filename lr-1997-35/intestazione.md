@@ -1,0 +1,1 @@
+"Modifiche alle leggi regionali 30 dicembre 1981, n. 57 'Assicurazione contro gli infortuni dei Consiglieri regionali ' e 13 ottobre 1972, n. 10 'Determinazione delle indennità spettanti ai membri del Consiglio regionale e della Giunta regionale ' ".
