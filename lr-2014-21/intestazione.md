@@ -1,0 +1,1 @@
+"Riduzione dell'assegno vitalizio".
