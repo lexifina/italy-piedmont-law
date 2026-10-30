@@ -1,0 +1,1 @@
+"Modifiche ed integrazioni alla L.R. 19 gennaio 1988, n. 4 'Determinazione delle modalità di corresponsione dei compensi ai componenti le Commissioni di esame e di selezione presso le scuole per operatori sanitari, nonchè negli esami di valutazione dei corsi di aggiornamento per i dipendenti delle UU.SS.SS.LL. '".
