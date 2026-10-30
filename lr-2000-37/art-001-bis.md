@@ -1,0 +1,2 @@
+Art. 1 bis. (Estensione esercizio della rappresentanza)
+1. L'esercizio della rappresentanza e tutela degli interessi morali ed economici delle rispettive categorie di invalidi, di cui all'articolo 1, viene esteso alle federazioni ed ai coordinamenti regionali più rappresentativi iscritti al Registro unico del terzo settore di cui al decreto legislativo 3 luglio 2017, n. 117 (Codice del Terzo settore, a norma dell' articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106).
