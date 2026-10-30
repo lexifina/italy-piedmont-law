@@ -1,0 +1,3 @@
+Art. 36 undecies. (Incentivazione dell'efficienza organizzativa)
+1. Una quota non superiore al trenta per cento delle economie sui costi di funzionamento conseguite attraverso processi di riorganizzazione, di innovazione o dei risparmi di costi derivanti da razionalizzazioni logistiche o di spese gestionali viene destinata, secondo criteri generali da definire nella contrattazione collettiva integrativa, per una quota al personale direttamente coinvolto e, per la restante parte, alle somme disponibili per la contrattazione stessa.
+2. Le economie ed i risparmi di cui al comma 1 sono utilizzabili solo previa documentazione accertata nella relazione della performance di cui all'articolo 36 sexies e validazione della stessa da parte del Nucleo di valutazione.

@@ -1,0 +1,8 @@
+Art. 22 bis. (Conferimento di incarichi dirigenziali a tempo determinato)
+1. Al fine di sopperire ad individuate esigenze della struttura organizzativa e nel rispetto del limite della percentuale di cui all'articolo 19, comma 6, del d.lgs. 165/2001, elevabile in applicazione di specifiche normative nazionali, la Giunta regionale e l'Ufficio di Presidenza del Consiglio regionale possono conferire incarichi di responsabile di settore e di struttura temporanea o di progetto con contratto a tempo determinato di durata non superiore a cinque anni.
+2. Gli incarichi di cui al comma 1 vengono attribuiti, previa selezione pubblica, a soggetti provenienti dal settore pubblico, ivi compresi i dipendenti della Regione Piemonte, appartenenti alla categoria D ovvero all'area dei funzionari e dell'elevata qualificazione da almeno un quinquennio ed in possesso dei seguenti requisiti:
+a) diploma di laurea secondo il vecchio ordinamento ovvero della laurea specialistica o magistrale, secondo il nuovo ordinamento, come disciplinata dall'ordinamento vigente;
+b) documentata esperienza almeno quinquennale e specifica professionalità nelle materie oggetto dell'incarico.
+3. Con provvedimento organizzativo sono definite le modalità di svolgimento della selezione.
+4. Il conferimento degli incarichi di cui al comma 1 a dipendenti regionali determina, con effetto dalla data di sottoscrizione del contratto e per tutta la durata dell'incarico, il collocamento in aspettativa senza assegni con riconoscimento dell'anzianità di servizio.
+5. Dall'attuazione del presente articolo non derivano nuove o maggiori spese a carico del bilancio regionale.

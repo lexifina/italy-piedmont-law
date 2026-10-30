@@ -1,0 +1,3 @@
+Capo VI ter. Modalità per la valorizzazione del merito e l'incentivazione del personale
+Art. 36 octies. (Criteri, modalità e strumenti di valorizzazione del merito)
+1. La Regione incentiva il miglioramento della performance e degli aspetti qualitativi e quantitativi dei servizi attraverso l'uso dei sistemi premianti, nel rispetto del sistema di relazioni sindacali e con modalità finalizzate alla valorizzazione dei dipendenti che conseguono i migliori risultati, misurati e attestati con i sistemi di valutazione. Promuove, inoltre, il riconoscimento del merito mediante l'attribuzione degli istituti di sviluppo nella categoria e nella carriera.

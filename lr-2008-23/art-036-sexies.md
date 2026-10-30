@@ -1,0 +1,5 @@
+Art. 36 sexies. (Piano e relazione della performance)
+1. Entro il mese successivo a quello di approvazione del bilancio di previsione della Regione viene redatto un documento programmatico, denominato Piano della performance, che individua, in coerenza con i contenuti dei documenti di programmazione finanziaria e di bilancio e con gli indirizzi e con gli obiettivi strategici dell'amministrazione, il piano degli obiettivi annuali delle direzioni regionali, con l'indicazione degli indicatori per la misurazione e la valutazione delle performance, nonché gli obiettivi assegnati al personale dirigenziale.
+2. Entro il 30 giugno viene redatto un documento, denominato Relazione sulla performance, che evidenzia a consuntivo, con riferimento all'anno precedente, i risultati raggiunti rispetto ai singoli obiettivi programmati, con rilevazione degli eventuali scostamenti.
+3. Le modalità di redazione del piano e della relazione di cui ai commi 1 e 2 sono definiti con provvedimento organizzativo.
+4. La Regione garantisce la massima trasparenza in ogni fase del ciclo di gestione della performance.
