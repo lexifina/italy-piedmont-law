@@ -1,0 +1,1 @@
+Modifiche alla legge regionale 15 maggio 2020, n. 12 (Primi interventi di sostegno per contrastare l'emergenza da Covid-19) e alla legge regionale 29 maggio 2020, n. 13 (Interventi di sostegno finanziario e di semplificazione per contrastare l'emergenza da Covid-19).
