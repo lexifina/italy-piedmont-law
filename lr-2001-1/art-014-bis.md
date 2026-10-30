@@ -1,0 +1,4 @@
+Art. 14 bis (Competenze in materia di cyberbullismo)
+1. Il CO.RE.COM. esercita funzioni di osservatorio sul fenomeno del cyberbullismo e concorre, anche attraverso la sottoscrizione di eventuali protocolli di intesa con soggetti terzi, alle azioni di prevenzione e di contrasto promosse dalla Regione.
+2. Nell'esercizio delle funzioni di cui al comma 1, il CO.RE.COM. acquisisce informazioni, raccoglie e aggiorna tempestivamente dati statistici, elabora studi, analisi e ricerche sul fenomeno del cyberbullismo presente sul territorio regionale. I risultati dell'attività di documentazione, studio e analisi sono messi a disposizione per le iniziative di sensibilizzazione e di informazione sui temi connessi al cyberbullismo.
+3. Il CO.RE.COM. segnala alle autorità competenti i fatti di cyberbullismo di cui viene a conoscenza, trasmettendo le eventuali denunce ricevute.
