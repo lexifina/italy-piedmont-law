@@ -1,0 +1,1 @@
+"Uso terapeutico della canapa. Disposizioni in materia di utilizzo di farmaci cannabinoidi per finalità terapeutiche e promozione della ricerca e di azioni sperimentali prodromiche alla produzione da parte di soggetti autorizzati".
