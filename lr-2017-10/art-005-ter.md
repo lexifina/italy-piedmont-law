@@ -1,0 +1,5 @@
+Art. 5 ter. (Giornata regionale per la lotta all'endometriosi)
+1. È istituita, in concomitanza con la Giornata nazionale, la Giornata regionale per la lotta all'endometriosi, da celebrare il 28 marzo di ogni anno.
+2. In occasione della Giornata regionale, l'assessorato regionale competente promuove iniziative di sensibilizzazione sull'endometriosi.
+3. Le iniziative di sensibilizzazione sono realizzate con il supporto dell'Osservatorio di cui all'articolo 3 e in coordinamento con le associazioni regionali che si occupano di endometriosi.
+4. In occasione della Giornata regionale, l'Osservatorio rende pubblico lo stato di realizzazione e il programma delle iniziative complessivamente previste per il contrasto della malattia.
