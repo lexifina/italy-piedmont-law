@@ -1,0 +1,1 @@
+"Iscrizione alla CPDEL e all'INADEL del personale dell'Ente per il diritto allo studio universitario ai fini del trattamento di quiescenza e di previdenza. Ricongiunzione presso la CPDEL e l'INADEL di periodi assicurativi del personale ex ISEF."
