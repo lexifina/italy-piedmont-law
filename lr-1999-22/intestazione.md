@@ -1,0 +1,1 @@
+"Norme per la standardizzazione delle informazioni sulle opere connesse all'uso dell'acqua e riapertura dei termini per la presentazione delle domande di rinnovo delle utenze di acqua pubblica prorogate dalla legge regionale 29 novembre 1996, n. 88 ".
