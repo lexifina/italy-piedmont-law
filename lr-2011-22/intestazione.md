@@ -1,0 +1,1 @@
+"Modifiche della legge regionale 12 novembre 1999, n. 28 (Disciplina, sviluppo ed incentivazione del commercio in Piemonte, in attuazione del decreto legislativo 13 marzo 1998, n. 114 ) e della legge regionale 27 luglio 2011, n. 13 (Disposizioni urgenti in materia di commercio)".
