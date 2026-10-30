@@ -1,0 +1,1 @@
+Nuove disposizioni in materia di valutazione ambientale strategica, valutazione di impatto ambientale e autorizzazione ambientale integrata. Abrogazione della legge regionale 14 dicembre 1998, n. 40 (Disposizioni concernenti la compatibilità ambientale e le procedure di valutazione).null
