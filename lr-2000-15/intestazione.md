@@ -1,0 +1,1 @@
+"Autorizzazioni per l'esercizio del commercio, applicazione decreto legislativo 31 marzo 1998, n. 114 "Riforma della disciplina relativa al settore del commercio, a norma dell' articolo 4, comma 4, della legge 15 marzo 1997, n. 59 " ".
