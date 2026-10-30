@@ -1,0 +1,101 @@
+Art. 4 bis (Ulteriore bonus una tantum a fondo perduto)
+1. Al fine di sostenere la ripresa delle attività sospese per effetto dei provvedimenti legislativi nazionali derivanti dall'emergenza Covid-19, l'adeguamento dei locali, l'acquisto di materiali, attrezzature e delle spese accessorie imposti anche dalle nuove esigenze e misure igienico-sanitarie, Finpiemonte S.p.a. è autorizzata, nell'esercizio 2020, con delibera dell'Assemblea straordinaria e nel rispetto di quanto previsto dall' articolo 2445, comma 3, del codice civile , a ridurre il proprio capitale sociale, nel limite massimo di 15 milioni di euro, destinando la quota di proprietà della Regione agli ulteriori settori colpiti dall'attuale crisi economico-finanziaria, secondo la classificazione delle attività economiche (Ateco 2007) di cui al comma 2, mediante la concessione di un bonus una tantum a fondo perduto.
+2. Le imprese le cui attività sono destinatarie del bonus di cui al comma 1, sono esclusivamente quelle incluse nella classificazione delle attività economiche (Ateco 2007) sotto riportata:
+a) 47.51 Commercio al dettaglio di prodotti tessili in esercizi specializzati per un importo pari a euro 1.500,00;
+b) 47.53 Commercio al dettaglio di tappeti, scendiletto e rivestimenti per pavimenti e pareti (moquette, linoleum) in esercizi specializzati per un importo pari a euro 1.500,00;
+c) 47.53.1 Commercio al dettaglio di tappeti, tende e tendine per un importo pari a euro 1.500,00;
+d) 47.53.11 Commercio al dettaglio di tende e tendine per un importo pari a euro 1.500,00;
+e) 47.53.12 Commercio al dettaglio di tappeti per un importo pari a euro 1.500,00;
+f) 47.53.2 Commercio al dettaglio di carta da parati e rivestimenti per pavimenti (moquette e linoleum) per un importo pari a euro 1.500,00;
+g) 47.53.20 Commercio al dettaglio di carta da parati e rivestimenti per pavimenti (moquette e linoleum) per un importo pari a euro 1.500,00;
+h) 47.54 Commercio al dettaglio di elettrodomestici in esercizi specializzati per un importo pari a euro 1.500,00;
+i) 47.54.0 Commercio al dettaglio di elettrodomestici in esercizi specializzati per un importo pari a euro 1.500,00;
+l) 47.54.00 Commercio al dettaglio di elettrodomestici in esercizi specializzati per un importo pari a euro 1.500,00;
+m) 47.59 Commercio al dettaglio di mobili, di articoli per l'illuminazione e altri articoli per la casa in esercizi specializzati per un importo pari a euro 1.500,00;
+n) 47.59.1 Commercio al dettaglio di mobili per la casa per un importo pari a euro 1.500,00;
+o) 47.59.10 Commercio al dettaglio di mobili per la casa per un importo pari a euro 1.500,00;
+p) 47.59.2 Commercio al dettaglio di utensili per la casa, di cristallerie e vasellame per un importo pari a euro 1.500,00;
+q) 47.59.20 Commercio al dettaglio di utensili per la casa, di cristallerie e vasellame per un importo pari a euro 1.500,00;
+r) 47.59.3 Commercio al dettaglio di articoli per l'illuminazione per un importo pari a euro 1.500,00;
+s) 47.59.30 Commercio al dettaglio di articoli per l'illuminazione per un importo pari a euro 1.500,00;
+t) 47.59.4 Commercio al dettaglio di macchine per cucire e per maglieria per uso domestico per un importo pari a euro 1.500,00;
+u) 47.59.40 Commercio al dettaglio di macchine per cucire e per maglieria per uso domestico per un importo pari a euro 1.500,00;
+v) 47.59.5 Commercio al dettaglio di sistemi di sicurezza per un importo pari a euro 1.500,00;
+w) 47.59.50 Commercio al dettaglio di sistemi di sicurezza per un importo pari a euro 1.500,00;
+x) 47.59.6 Commercio al dettaglio di strumenti musicali e spartiti per un importo pari a euro 1.500,00
+y) 47.59.60 Commercio al dettaglio di strumenti musicali e spartiti per un importo pari a euro 1.500,00;
+z) 47.59.9 Commercio al dettaglio di altri articoli diversi per uso domestico n.c.a. per un importo pari a euro 1.500,00;
+aa) 47.59.91 Commercio al dettaglio di articoli in legno, sughero, vimini e articoli in plastica per uso domestico per un importo pari a euro 1.500,00;
+bb) 47.59.99 Commercio al dettaglio di altri articoli per uso domestico n.c.a. per un importo pari a euro 1.500,00;
+cc) 47.63 Commercio al dettaglio di registrazioni musicali e video in esercizi specializzati per un importo pari a euro 1.500,00;
+dd) dd) 47.63.0 Commercio al dettaglio di registrazioni musicali e video in esercizi specializzati per un importo pari a euro 1.500,00;
+ee) 47.63.00 Commercio al dettaglio di registrazioni musicali e video in esercizi specializzati per un importo pari a euro 1.500,00;
+ff) 47.64 Commercio al dettaglio di articoli sportivi in esercizi specializzati per un importo pari a euro 1.500,00;
+gg) 47.64.1 Commercio al dettaglio di articoli sportivi, biciclette e articoli per il tempo libero per un importo pari a euro 1.500,00;
+hh) 47.64.10 Commercio al dettaglio di articoli sportivi, biciclette e articoli per il tempo libero per un importo pari a euro 1.500,00;
+ii) 47.64.2 Commercio al dettaglio di natanti e accessori per un importo pari a euro 1.500,00;
+jj) 47.64.20 Commercio al dettaglio di natanti e accessori per un importo pari a euro 1.500,00;
+kk) 47.65 Commercio al dettaglio di giochi e giocattoli in esercizi specializzati per un importo pari a euro 1.500,00;
+ll) 47.65.0 Commercio al dettaglio di giochi e giocattoli (inclusi quelli elettronici) per un importo pari a euro 1.500,00;
+mm) 47.65.00 Commercio al dettaglio di giochi e giocattoli (inclusi quelli elettronici) per un importo pari a euro 1.500,00;
+nn) 47.76 Commercio al dettaglio di fiori, piante, semi, fertilizzanti, animali domestici e alimenti per animali domestici in esercizi specializzati per un importo pari a euro 1.500,00;
+oo) 47.76.1 Commercio al dettaglio di fiori e piante per un importo pari a euro 1.500,00;
+pp) 47.76.10 Commercio al dettaglio di fiori e piante per un importo pari a euro 1.500,00;
+qq) 47.76.2 Commercio al dettaglio di piccoli animali domestici per un importo pari a euro 1.500,00;
+rr) 47.76.20 Commercio al dettaglio di piccoli animali domestici per un importo pari a euro 1.500,00;
+ss) 47.77 Commercio al dettaglio di orologi e articoli di gioielleria in esercizi specializzati per un importo pari a euro 1.500,00;
+tt) 47.77.0 Commercio al dettaglio di orologi, articoli di gioielleria e argenteria per un importo pari a euro 1.500,00;
+uu) 47.77.00 Commercio al dettaglio di orologi, articoli di gioielleria e argenteria per un importo pari a euro 1.500,00;
+vv) 47.78 Commercio al dettaglio di altri prodotti (esclusi quelli di seconda mano) in esercizi specializzati per un importo pari a euro 1.500,00;
+ww) 47.78.1 Commercio al dettaglio di mobili per ufficio per un importo pari a euro 1.500,00;
+xx) 47.78.10 Commercio al dettaglio di mobili per ufficio per un importo pari a euro 1.500,00;
+yy) 47.78.3 Commercio al dettaglio di oggetti d'arte di culto e di decorazione, chincaglieria e bigiotteria per un importo pari a euro 1.500,00;
+zz) 47.78.31 Commercio al dettaglio di oggetti d'arte (incluse le gallerie d'arte) per un importo pari a euro 1.500,00;
+aaa) 47.78.32 Commercio al dettaglio di oggetti d'artigianato per un importo pari a euro 1.500,00;
+bbb) 47.78.33 Commercio al dettaglio di arredi sacri ed articoli religiosi per un importo pari a euro 1.500,00;
+ccc) 47.78.34 Commercio al dettaglio di articoli da regalo e per fumatori per un importo pari a euro 1.500,00;
+ddd) 47.78.35 Commercio al dettaglio di bomboniere per un importo pari a euro 1.500,00;
+eee) 47.78.36 Commercio al dettaglio di chincaglieria e bigiotteria (inclusi gli oggetti ricordo e gli articoli di promozione pubblicitaria) per un importo pari a euro 1.500,00;
+fff) 47.78.37 Commercio al dettaglio di articoli per le belle arti per un importo pari a euro 1.500,00;
+ggg) 47.78.5 Commercio al dettaglio di armi e munizioni, articoli militari per un importo pari a euro 1.500,00;
+hhh) 47.78.50 Commercio al dettaglio di armi e munizioni, articoli militari per un importo pari a euro 1.500,00;
+iii) 47.78.9 Commercio al dettaglio di altri prodotti non alimentari per un importo pari a euro 1.500,00;
+jjj) 47.78.91 Commercio al dettaglio di filatelia, numismatica e articoli da collezionismo per un importo pari a euro 1.500,00;
+kkk) 47.78.92 Commercio al dettaglio di spaghi, cordami, tele e sacchi di juta e prodotti per l'imballaggio (esclusi quelli in carta e cartone) per un importo pari a euro 1.500,00;
+lll) 47.78.99 Commercio al dettaglio di altri prodotti non alimentari n.c.a. per un importo pari a euro 1.500,00;
+mmm) 47.79 Commercio al dettaglio di articoli di seconda mano in negozi per un importo pari a euro 1.500,00;
+nnn) 79.90 Altri servizi di prenotazione e altre attività di assistenza turistica non svolte dalle agenzie di viaggio per un importo pari a euro 1.500,00;
+ooo) 79.90.1 Altri servizi di prenotazione e altre attività di assistenza turistica non svolte dalle agenzie di viaggio per un importo pari a euro 1.500,00;
+ppp) 79.90.11 Servizi di biglietteria per eventi teatrali, sportivi ed altri eventi ricreativi e d'intrattenimento per un importo pari a euro 1.500,00;
+qqq) 79.90.19 Altri servizi di prenotazione e altre attività di assistenza turistica non svolte dalle agenzie di viaggio n.c.a. per un importo pari a euro 1.500,00;
+rrr) 95.2 Riparazione di beni per uso personale e per la casa per un importo pari a euro 1.500;
+sss) 95.21 Riparazione di prodotti elettronici di consumo audio e video per un importo pari a euro 1.500,00;
+ttt) 95.21.0 Riparazione di prodotti elettronici di consumo audio e video per un importo pari a euro 1.500,00;
+uuu) 95.21.00 Riparazione di prodotti elettronici di consumo audio e video per un importo pari a euro 1.500,00;
+vvv) 95.22 Riparazione di elettrodomestici e di articoli per la casa e il giardinaggio per un importo pari a euro 1.500,00;
+www) 95.22.0 Riparazione di elettrodomestici e di articoli per la casa e il giardinaggio per un importo pari a euro 1.500,00;
+xxx) 95.22.01 Riparazione di elettrodomestici e di articoli per la casa per un importo pari a euro 1.500,00;
+yyy) 95.22.02 Riparazione di articoli per il giardinaggio per un importo pari a euro 1.500,00;
+zzz) 95.23 Riparazione di calzature e articoli da viaggio per un importo pari a euro 1.500,00;
+aaaa) 95.23.0 Riparazione di calzature e articoli da viaggio in pelle, cuoio o in altri materiali simili per un importo pari a euro 1.500,00;
+bbbb) 95.23.00 Riparazione di calzature e articoli da viaggio in pelle, cuoio o in altri materiali simili per un importo pari a euro 1.500,00;
+cccc) 95.24 Riparazione di mobili e di oggetti di arredamento; laboratori di tappezzeria per un importo pari a euro 1.500,00;
+dddd) 95.24.0 Riparazione di mobili e di oggetti di arredamento; laboratori di tappezzeria per un importo pari a euro 1.500,00;
+eeee) 95.24.01 Riparazione di mobili e di oggetti di arredamento per un importo pari a euro 1.500,00;
+ffff) 95.24.02 Laboratori di tappezzeria per un importo pari a euro 1.500,00;
+gggg) 95.25 Riparazione di orologi e di gioielli per un importo pari a euro 1.500,00;
+hhhh) 95.25.0 Riparazione di orologi e di gioielli per un importo pari a euro 1.500,00;
+iiii) 95.25.00 Riparazione di orologi e di gioielli per un importo pari a euro 1.500,00;
+jjjj) 95.29 Riparazione di altri beni per uso personale e per la casa per un importo pari a euro 1.500,00;
+kkkk) 95.29.0 Riparazione di altri beni per uso personale e per la casa per un importo pari a euro 1.500,00;
+llll) 95.29.01 Riparazione di strumenti musicali per un importo pari a euro 1.500,00;
+mmmm) 95.29.02 Riparazione di articoli sportivi (escluse le armi sportive) e attrezzature da campeggio (incluse le biciclette) per un importo pari a euro 1.500,00;
+nnnn) 95.29.03 Modifica e riparazione di articoli di vestiario non effettuate dalle sartorie per un importo pari a euro 1.500,00;
+oooo) 95.29.04 Servizi di riparazioni rapide, duplicazione chiavi, affilatura coltelli, stampa immediata su articoli tessili, incisioni rapide su metallo non prezioso per un importo pari a euro 1.500,00;
+pppp) 95.29.09 Riparazione di altri beni di consumo per uso personale e per la casa n.c.a. per un importo pari a euro 1.500,00.
+3. Le singole imprese devono risultare attive, aver la sede legale nella Regione Piemonte e risultare iscritte nelle pertinenti sezioni del Registro delle imprese istituito presso la CCIAA territorialmente competente e sostenere le spese di cui al comma 1 entro l'anno 2022.
+4. Si applica quanto previsto nelle sezioni 3.1 e 3.2 della Comunicazione della Commissione europea C (2020) 1863 final - ''Quadro temporaneo per le misure di aiuto di Stato a sostegno dell'economia nell'attuale emergenza del COVID-19'' e successive modifiche e integrazioni, nei limiti ed alle condizioni di cui alla medesima Comunicazione.
+5. Per gli oneri di cui al presente articolo, è iscritto sul bilancio di previsione finanziario 2020-2022, nella missione 14 (Sviluppo economico e competitività), programma 14.01 (Industria, PMI e Artigianato), uno stanziamento pari a euro 14.986.500,00.
+6. Gli oneri di cui al comma 5 trovano copertura nelle risorse derivanti dalla riduzione del capitale sociale di Finpiemonte S.p.a., secondo le modalità previste al comma 1, riacquisite al bilancio regionale mediante incremento delle previsioni di entrata del Titolo 05 (Entrate da riduzione di attività finanziarie), Tipologia 100 (Alienazione di attività finanziarie) ed iscritte nell'allegato contabile di cui all'articolo 36 della deliberazione legislativa (Interventi di sostegno finanziario e di semplificazione per contrastare l'emergenza da Covid-19) approvata dal Consiglio regionale il 27 maggio 2020.
+7. Nella fase transitoria prevista dall' articolo 2445, comma 3, del codice civile , Finpiemonte S.p.a. è autorizzata ad utilizzare la propria liquidità, nell'ambito della gestione finanziaria e delle disponibilità dei fondi regionali ed in ottemperanza a quanto previsto dal proprio regolamento di gestione degli investimenti di liquidità e degli investimenti finanziari, nonché della disponibilità di fondi propri.
+8. Finpiemonte S.p.a. è tenuta a comunicare periodicamente alla Giunta regionale l'importo erogato per le singole attività economiche di cui al comma 2.
