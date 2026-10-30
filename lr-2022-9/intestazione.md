@@ -1,0 +1,1 @@
+Modifiche all alegge regionale 4 gennaio 2000, n. 1 (Norme in materia di trasporto pubblico locale, in attuazione del decreto legislativo 19 novembre 1997, n. 422 ) e alla legge regionale 23 giugno 2021, n. 17 (Disposizioni urgenti in materia di trasporti).
