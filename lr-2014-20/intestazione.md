@@ -1,0 +1,1 @@
+"Norme in materia di conferimento alle unioni montane delle funzioni amministrative già attribuite dalla Regione alle comunità montane e modifica alla legge regionale 14 marzo 2014, n. 3 (Legge sulla montagna)".

@@ -1,0 +1,2 @@
+Art. 3 bis. (Disposizioni transitorie)
+1. Nelle more del riordino complessivo delle funzioni amministrative conseguente alla legge 7 aprile 2014, n. 56 (Disposizioni sulle città metropolitane, sulle province, sulle unioni e fusioni di comuni) e fino all'adozione del provvedimento previsto dall' articolo 10 della l.r. 3/2014 , le unioni montane possono esercitare le funzioni amministrative di cui all'articolo 3, comma 2, lettera c), della medesima legge con le modalità di cui all'articolo 11, comma 2.
