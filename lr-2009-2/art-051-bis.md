@@ -1,0 +1,2 @@
+Art. 51 bis. (Parametri per la valutazione della qualità dei comprensori sciistici)
+1. Con l'obiettivo di qualificare sempre più l'offerta turistica nel campo degli sport invernali i parametri di cui al presente articolo devono considerare le condizioni generali degli impianti e delle piste e la loro sostenibilità ambientale. La griglia di valutazione deve prevedere cinque categorie di qualità, da un ''fiocco bianco'' fino a cinque ''fiocchi''.

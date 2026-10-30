@@ -1,0 +1,11 @@
+Art. 38 bis. (Disposizioni a favore delle persone con disabilità)
+1. Gli sciatori con disabilità si suddividono nelle seguenti categorie:
+a) standing: sciatori che sono in grado di sciare in piedi;
+b) sitting: sciatori che stanno seduti utilizzando particolari attrezzature;
+c) trasportati: sciatori che hanno necessità di un accompagnatore.
+2. Le persone con disabilità, la cui condizione pregiudica la pratica sciistica in autonomia e sicurezza, devono essere assistite da un accompagnatore.
+3. La funzione di accompagnatore può essere svolta da maestri di sci specializzati per tale accompagnamento o personale formato da associazioni sportive operanti nell'ambito della disabilità e iscritte nell'apposita sezione del registro nazionale delle attività sportive dilettantistiche o da qualunque altro soggetto indicato dalla persona con disabilità quale suo accompagnatore.
+4. Le persone con disabilità per essere facilmente individuate dagli altri sciatori si muniscono di una pettorina arancione e i loro accompagnatori recano la scritta "guida" sull'avambraccio riportata anche sul retro della giacca.
+5. Le persone con disabilità hanno diritto di precedenza in fase di risalita con impianti sugli sciatori normodotati.
+6. Gli sciatori normodotati in fase di discesa devono riservare alle persone con disabilità particolare attenzione, salvaguardandone gli spazi di percorso e le traiettorie di discesa. 7
+7. Le persone con disabilità utilizzano il casco ai sensi dell'articolo 32 comma 8. In caso di incompatibilità all'utilizzo del casco dovuta al tipo di disabilità, il medico sportivo può rilasciare certificato attestante la relativa esenzione.
