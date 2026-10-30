@@ -1,0 +1,1 @@
+"Interventi di classificazione, ammodernamento e attivazione degli impianti di arroccamento per la tutela e lo sviluppo del turismo montano e modifica della legge regionale 5 dicembre 1977, n. 56 "Tutela ed uso del suolo" ".
