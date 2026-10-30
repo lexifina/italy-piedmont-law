@@ -1,0 +1,1 @@
+Modifica dell'articolo 3 della legge regionale 3 agosto 2011, n. 15 (Disciplina delle attività e dei servizi necroscopici, funebri e cimiteriali. Modifiche della legge regionale 31 ottobre 2007, n. 20).
