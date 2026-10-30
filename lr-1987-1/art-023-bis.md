@@ -1,0 +1,3 @@
+Art. 23 bis. (Ulteriori misure straordinarie)
+1. La Giunta regionale, con propria deliberazione, può disporre ulteriori provvidenze ed interventi di carattere straordinario, al di fuori di quanto previsto dal piano annuale di cui all'articolo 3, a favore di emigrati di origine piemontese per nascita o residenza e dei loro familiari in disagiata situazione economica, in deroga ai requisiti di permanenza all'estero di cui all'articolo 2, primo comma, anche attraverso rimborso a terzi che abbiano anticipato tali spese per motivi di urgenza.
+2. La Giunta regionale provvede a fornire successiva comunicazione dei provvedimenti adottati al Consiglio regionale.
