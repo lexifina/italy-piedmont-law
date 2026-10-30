@@ -1,0 +1,1 @@
+"Ulteriori modifiche della legge regionale 26 gennaio 2009, n. 2 (Norme in materia di sicurezza nella pratica degli sport invernali da discesa e da fondo in attuazione della normativa nazionale vigente ed interventi a sostegno della garanzia delle condizioni di sicurezza sulle aree sciabili, dell'impiantistica di risalita e dell'offerta turistica)".
