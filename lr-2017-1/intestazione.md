@@ -1,0 +1,1 @@
+"Revisione della disciplina regionale in materia di sicurezza nella pratica degli sport montani invernali ed estivi e disciplina delle attività di volo in zone di montagna. Modifiche della legge regionale 26 gennaio 2009, n. 2 ".
