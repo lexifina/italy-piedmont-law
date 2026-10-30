@@ -1,0 +1,1 @@
+"Disposizioni in materia di sistemazioni provvisorie ai sensi della legge regionale 11 marzo 2015, n. 4 (Misure straordinarie in favore dei comuni per fronteggiare l'emergenza abitativa) e altre disposizioni in materia di edilizia sociale".
