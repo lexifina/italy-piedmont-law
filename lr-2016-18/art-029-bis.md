@@ -1,0 +1,2 @@
+Art. 29 bis. (Destinazione delle risorse introitate al 29 giugno 2022, ai sensi dell' articolo 318 quater del decreto legislativo 3 aprile 2006, n. 152 )
+1. Le somme introitate da ARPA sino al 29 giugno 2022, ai sensi dell' articolo 318 quater del decreto legislativo 3 aprile 2006, n. 152 (Norme in materia ambientale) e risultanti nell'avanzo vincolato del risultato di amministrazione 2023, sono destinate alla medesima finalità di cui al vigente articolo 318 quater, comma 2, ultimo periodo, dello stesso decreto.
