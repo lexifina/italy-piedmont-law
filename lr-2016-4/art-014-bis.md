@@ -1,0 +1,4 @@
+Art. 14 bis. (Abuso sessuale on-line)
+1. La Regione, fermo restando quanto disposto dalla legge 1° ottobre 2012, n. 172 (Ratifica ed esecuzione della Convenzione del Consiglio d'Europa per la protezione dei minori contro lo sfruttamento e l'abuso sessuale, adottata a Lanzarote il 25 ottobre 2007, nonché norme di adeguamento dell'ordinamento interno):
+a) promuove, in collaborazione con gli enti locali, azioni tese alla tutela e alla protezione di bambini e bambine, in caso di abuso sessuale on-line;
+b) promuove iniziative di formazione a più livelli, con la partecipazione di organizzazioni di volontariato, associazioni no-profit, istituzioni scolastiche, per prevenire l'abuso sessuale on-line, sensibilizzando i bambini e le bambine circa i rischi della navigazione sulla rete internet e sostenendo i genitori e gli educatori nel loro ruolo di adulti di riferimento.
