@@ -1,0 +1,1 @@
+"Disposizioni in materia di nuova composizione dei Collegi sindacali delle aziende sanitarie regionali. Modifiche alla legge regionale 24 gennaio 1995, n. 10 (Ordinamento, organizzazione e funzionamento delle Aziende Sanitarie Regionali)".
