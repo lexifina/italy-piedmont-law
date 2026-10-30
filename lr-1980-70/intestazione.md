@@ -1,0 +1,1 @@
+"Acquisizione di aree o immobili del Demanio Militare; definizione di una riserva di alloggi di edilizia convenzionata agevolata da permutare con il Ministero della Difesa ai sensi della legge 18 agosto 1978, n. 497 ."
