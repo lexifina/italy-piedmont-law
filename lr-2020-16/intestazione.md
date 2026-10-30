@@ -1,0 +1,1 @@
+Conferimento dell'onorificenza della Presidenza del Consiglio regionale per meriti civili. Modifiche alla legge regionale 31 maggio 2004, n. 15 (Disciplina dello stemma, del gonfalone, della bandiera, del sigillo, della fascia della Regione Piemonte. Abrogazione delle leggi regionali 16 gennaio 1984, n. 4, 24 novembre 1995, n. 83, 17 giugno 1997, n. 36).
