@@ -1,0 +1,4 @@
+Art. 38 quater. (Impiego delle grafie standard)
+1. Per il raggiungimento delle finalità di cui all'articolo 38, comma 3, ovvero per favorire la fruibilità e l'uso del patrimonio linguistico e dialettale del Piemonte nella comunicazione contemporanea, la Regione, nel realizzare gli interventi di cui all'articolo 38 bis, favorisce iniziative che, nell'utilizzo del patrimonio nella forma scritta, impiegano esclusivamente grafie standard.
+2. Per grafie standard si intendono sistemi di trascrizione armonizzati di uso consolidato e coerenti con la tradizione letteraria di ciascuna minoranza linguistica di cui all'articolo 38, comma 2, lettera a), nonché di ciascun insieme di dialetti di cui all'articolo 38, comma 2, lettere b) c) e d), impiegabili con successo anche per le varietà diatopiche.
+3. Ai soli fini della presente legge, la Giunta regionale, sentita la Consulta di cui all'articolo 38 ter, definisce l'elenco delle grafie standard.

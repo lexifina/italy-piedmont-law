@@ -1,0 +1,10 @@
+Art. 38 ter. (Consulta per la valorizzazione e promozione del patrimonio linguistico e dialettale del Piemonte)
+1. È istituita la Consulta per la valorizzazione e promozione del patrimonio linguistico e dialettale del Piemonte, con compiti di osservatorio e svolgimento di funzioni propositive e consultive nei confronti della Giunta regionale. La Consulta partecipa, in conformità all'articolo 8, alla redazione del Programma triennale della cultura di cui all'articolo 6, per quanto attiene alle materie di cui al presente Capo.
+2. La Consulta di cui al comma 1 è nominata con decreto del Presidente della Giunta regionale entro novanta giorni dall'inizio di ogni legislatura ed è composta da:
+a) il Presidente della Giunta regionale, o altra persona delegata, con funzioni di Presidente;
+b) tre membri del Consiglio regionale, designati dal Consiglio stesso, di cui uno espressione delle minoranze;
+c) sei persone esperte in materia di patrimonio linguistico e dialettale designate dalla Giunta regionale sulla base di criteri approvati dalla Giunta stessa, previo parere della commissione consiliare competente, di cui una indicata dalle associazione degli enti locali piemontesi e precisamente: l'Associazione nazionale comuni italiani (Anci), l'Associazione nazionale piccoli comuni d'Italia (Anpci), l'Unione nazionale comuni comunità enti montani (Uncem), le Autonomie locali italiane -Lega delle autonomie locali (Ali) e l'Unione province italiane (Upi).
+3. Possono far parte della Consulta di cui al comma 1, su designazione dell'ente di appartenenza, un rappresentante dell'Università degli studi di Torino, uno del Politecnico di Torino e uno dell'Università del Piemonte orientale.
+4. La Consulta dura in carica quanto il Consiglio regionale e, all'atto dello scioglimento dello stesso, decade inderogabilmente.
+5. La Consulta è convocata dal suo Presidente almeno una volta all'anno e comunque ogniqualvolta ne faccia richiesta la maggioranza dei suoi componenti.
+6. I componenti della Consulta partecipano ai lavori della stessa a titolo gratuito e senza rimborso spese.
