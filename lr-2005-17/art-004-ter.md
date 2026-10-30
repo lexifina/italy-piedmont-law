@@ -1,0 +1,13 @@
+Art. 4 ter. (Disposizioni procedimentali relativi agli interventi di cui all'articolo 4 bis)
+1. Gli interventi previsti all'articolo 4 bis sono attuati con progetti unitari, che ne verificano il corretto inserimento nel contesto urbano sotto l'aspetto architettonico, infrastrutturale, ambientale e sociale, e sono realizzabili anche in più fasi temporali e possono interessare uno o più edifici o lotti, purché ricompresi in una progettazione unitaria.
+2. Nel caso di demolizioni, totali o parziali, e successive ricostruzioni, con modifica della superficie e della volumetria complessive, dei prospetti e della sagoma planimetrica e altimetrica, occorre effettuare il rilievo asseverato del fabbricato da demolire e la quantificazione della relativa superficie esistente, secondo le seguenti modalità:
+a) per la quantificazione dell'altezza, della volumetria, delle superfici e di tutti gli altri parametri urbanistico edilizi dei fabbricati esistenti da demolire si applicano le disposizioni contenute nella strumentazione urbanistica e regolamentare vigente all'atto della presentazione del progetto;
+b) per gli interventi di demolizione e ricostruzione di manufatti e di opere in generale, per le quali risulti indeterminabile la relativa superficie o il volume esistenti, si considera la capacità edificatoria massima come stabilita dalla strumentazione urbanistica e regolamentare vigente al momento della presentazione del progetto.
+3. La domanda di ammissione alla realizzazione degli interventi di cui all'articolo 4 bis, è presentata allo Sportello unico per le attività produttive (SUAP), unitamente alla richiesta del titolo edilizio necessario per la realizzazione dell'intervento.
+4. Il titolo edilizio è subordinato, ai sensi dell' articolo 14 del d.p.r. 380/2001 , a preventiva deliberazione del comune che attesta:
+a) l'interesse pubblico dell'iniziativa in progetto per la riqualificazione urbana e la rigenerazione dell'area urbana degradata;
+b) la rimozione delle condizioni, in essere o potenziali, di degrado sociale, edilizio ed economico, anche mediante il solo mutamento della destinazione d'uso in atto;
+c) il corretto inserimento dell'intervento nel contesto urbano;
+d) l'eventuale quantificazione del contributo straordinario di cui all' articolo 16, comma 4, lettera d ter), del d.p.r. 380/2001 .
+5. La quota di standard urbanistici dovuti ai sensi degli articoli 20 e 21 della legge regionale 5 dicembre 1977, n. 56 (Tutela ed uso del suolo), se non reperibili, deve essere monetizzata.
+6. Agli interventi realizzati ai sensi dell'articolo 4 bis non si applica alcun limite relativo all'apertura o al potenziamento del circuito degli esercizi cinematografici che non sia specificamente previsto dalla legislazione nazionale in vigore.
