@@ -1,0 +1,3 @@
+Art. 5 ter.
+Ai beneficiari dei contributi integrativi disposti dai precedenti artt. 4, 4/bis, 5 e 5/bis della presente legge, che estinguono i mutui, oggetto dei contributi stessi, è fatto obbligo di darne tempestiva comunicazione al Presidente della Giunta Regionale al fine di consentire l'emissione dei provvedimenti di sospensione dei benefici stessi.
+I sopraddetti beneficiari sono tenuti a presentare alla Regione ricevuta, debitamente quietanzata, emessa dall'Istituto di Credito, entro 30 giorni dalla quietanza, per tutti i pagamenti inerenti i mutui assistiti dai contributi della presente legge.

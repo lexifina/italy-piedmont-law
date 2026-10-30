@@ -1,0 +1,2 @@
+Art. 9 ter.
+La Regione, sulla base della documentazione prodotta dagli Istituti di Credito relativa alla contabilizzazione dei contributi sui mutui agevolati disposti ai sensi degli artt. 36 e 38 della legge 5 agosto 1978, n. 457 , concessi agli operatori di cui al precedente art. 9 bis, provvede alla copertura degli oneri eventualmente necessari per adeguare il tasso iniziale a carico dei mutuatari alle disposizioni di cui all' art. 18 della legge 5 agosto 1978, n. 457.
