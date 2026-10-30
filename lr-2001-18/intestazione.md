@@ -1,0 +1,1 @@
+"Modifiche all' articolo 3 della legge regionale 13 ottobre 1972, n. 10 (Determinazione delle indennità spettanti ai membri del Consiglio e della Giunta Regionali), come da ultimo modificata dalla legge regionale 9 marzo 2001, n. 4 ".
