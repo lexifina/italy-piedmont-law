@@ -1,0 +1,2 @@
+Art. 10 bis. (Stato di attuazione del processo di pianificazione)
+1. La Giunta Regionale, le province e la città metropolitana attivano iniziative per favorire la diffusa conoscenza degli strumenti di pianificazione territoriale e paesaggistica, promuovono ed assicurano l'aggiornamento del processo di pianificazione del territorio predisponendo, a tal fine, relazioni biennali sullo stato di attuazione del processo di pianificazione.
