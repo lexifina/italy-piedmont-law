@@ -1,0 +1,22 @@
+Art. 9 bis (Testate giornalistiche online)
+1. La Regione, fermi restando gli interventi a favore della stampa di informazione periodica locale, sostiene, promuove e valorizza lo sviluppo sul proprio territorio delle testate giornalistiche online quali strumento della diffusione dell'informazione giornalistica regionale.
+2. Per il perseguimento delle attività di cui al comma 1, la Regione attua i seguenti interventi:
+a) erogazione di contributi per l'abbonamento annuale ad un massimo di due agenzie di stampa ad informazione regionale;
+b) erogazione di contributi per l'abbonamento annuale dello spazio server fornito dall'hosting provider, fino ad un massimo del 50 per cento della spesa complessiva;
+c) erogazione di contributi per spese di ottimizzazione del sito web per i dispositivi mobili 'mobile-friendly' fino ad un massimo del 50 per cento della spesa complessiva.
+3. Gli interventi di cui al comma 2 sono destinati a testate giornalistiche online aventi le seguenti caratteristiche:
+a) edizione in formato digitale, dinamico e multimediale, della testata per la quale si richiede il contributo, anche eventualmente in parallelo con l'edizione su carta;
+b) frequenza di aggiornamento almeno quotidiana;
+c) diffusione di informazioni di interesse locale o regionale;
+d) sede della redazione in Piemonte;
+e) registrazione da almeno due anni della testata giornalistica presente anche online presso il tribunale nella cui circoscrizione la testata ha la redazione;
+f) direttore responsabile iscritto all'ordine dei giornalisti;
+g) iscrizione della testata al Registro degli operatori di comunicazione (ROC);
+h) media di visualizzazioni non inferiore al milione all'anno certificabile;
+i) non devono configurare come meri aggregatori di notizie;
+j) possedere una struttura minima ai sensi dell'articolo 9 comma 2;
+k) accessibilità del sito per persone con disabilità.
+4. Sono escluse dall'applicazione del presente articolo le imprese editoriali quotate in Borsa, le imprese editrici di organi d'informazione dei partiti, dei movimenti politici e sindacali, nonché le pubblicazioni specialistiche.
+5. I contributi di cui al comma 2, lettere a) b) e c), sono erogati per un importo cumulativo non superiore a euro 35.000,00 l'anno.
+6. I contributi concessi ai sensi del presente articolo non sono cumulabili con quelli concessi ai sensi dell'articolo 8.
+7. La ripartizione delle risorse è fissata con deliberazione della Giunta regionale che dispone annualmente i criteri sulla base delle diverse tipologie di spese ammissibili nonché delle categorie dei beneficiari, quali la stampa periodica locale o le testate giornalistiche online.
