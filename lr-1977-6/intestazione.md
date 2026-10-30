@@ -1,0 +1,1 @@
+"Norme per l'organizzazione e la partecipazione a convegni, congressi ed altre manifestazioni, per l'adesione ad Enti ed Associazioni e per l'acquisto di documentazione di interesse storico ed artistico."
