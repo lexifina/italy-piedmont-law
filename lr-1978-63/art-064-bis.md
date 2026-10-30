@@ -1,0 +1,2 @@
+Art. 64 bis. (Sanzioni amministrative derivanti da misure di emergenza per la prevenzione e l'eradicazione di fitopatie ed infestazioni parassitarie).
+1. I proventi derivanti dall'irrogazione delle sanzioni amministrative di cui al comma 2 dell'articolo 18 ter sono introitati nello stato di previsione dell'entrata nell'ambito dell'UPB DB0902, unità utilizzata per la copertura finanziaria degli oneri iscritti nell'ambito dell'UPB DB11061 per la realizzazione degli interventi necessari all'attuazione delle misure di emergenza di cui al comma 1 dell'articolo 18 ter.
