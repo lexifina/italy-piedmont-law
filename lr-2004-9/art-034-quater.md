@@ -1,0 +1,3 @@
+Art. 34 quater. (Proroga dei termini per la presentazione delle domande di autorizzazione per gli scarichi di acque reflue domestiche)
+1. Il termine di cui all' articolo 2, comma 1, della legge regionale 7 aprile 2003, n. 6 (Disposizioni in materia di autorizzazione agli scarichi delle acque reflue domestiche e modifiche alla legge regionale 30 aprile 1996, n. 22 ) é prorogato sino al 30 giugno 2005 La disposizione di cui al presente comma ha efficacia dal 12 ottobre 2004.
+2. Il termine di cui all' articolo 2, comma 3, della l.r. 6/2003 é prorogato sino al 30 giugno 2006.

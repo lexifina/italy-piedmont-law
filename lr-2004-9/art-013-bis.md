@@ -1,0 +1,3 @@
+Art. 13 bis.
+1. In attuazione dell' articolo 4, comma 38, della l. 350/2003 , con decorrenza dal 1° gennaio 2004 l'introito dei proventi dei canoni derivanti dall'utilizzazione delle acque pubbliche ricadenti nel territorio della Provincia del Verbano Cusio Ossola è annualmente trasferito alla Provincia medesima.
+2. Il trasferimento di cui al comma 1 e le modalità di applicazione delle disposizioni di cui all' articolo 4, comma 38, della l. 350/2003 sono definite mediante specifico accordo di programma che determina altresì l'entità della riserva sull'importo da trasferire per il finanziamento delle attività regionali di monitoraggio e studio in materia di risorse idriche.
