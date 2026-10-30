@@ -1,0 +1,1 @@
+"Modifiche della legge regionale 14 gennaio 2009, n. 1 (Testo unico in materia di artigianato) e della legge regionale 9 dicembre 1992, n. 54 (Norme di attuazione della legge 4 gennaio 1990, n. 1 . Disciplina dell'attività di estetista)".
