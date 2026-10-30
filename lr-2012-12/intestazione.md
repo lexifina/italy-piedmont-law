@@ -1,0 +1,1 @@
+"Modifiche alla legge regionale 13 ottobre 1972, n. 10 (Determinazione dell'indennità spettanti ai membri del Consiglio e della Giunta regionale) e alla legge regionale 10 novembre 1972, n. 12 (Funzionamento dei Gruppi consiliari)".
