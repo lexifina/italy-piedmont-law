@@ -1,0 +1,1 @@
+"Disposizioni di principio per l'autorizzazione alla deroga delle distanze legali lungo le ferrovie in concessione ai sensi dell' articolo 60 del decreto del Presidente della Repubblica n. 753 del 1980 ". .
