@@ -1,0 +1,1 @@
+"Modifica art. 11 L.R. 27 ottobre 1982, n. 31 , come modificata dalla L.R. 3 settembre 1986, n. 39 'Disciplina degli organi collegiali sanitarì - Commissione invalidi civili, ciechi civili, sordomuti - Rideterminazione compensi."
