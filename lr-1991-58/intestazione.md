@@ -1,0 +1,1 @@
+"Modifica ed integrazione della legge regionale 16 gennaio 1973, n. 4 , in materia di referendum consultivo sulla istituzione di nuovi Comuni, la modificazione delle circoscrizioni Comunali e le denominazioni dei Comuni, con riferimento al nuovo testo dell' art. 60 dello Statuto ."
