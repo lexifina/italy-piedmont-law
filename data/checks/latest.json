@@ -1,0 +1,107 @@
+{
+ "generated": "2026-11-24T00:49:52Z",
+ "latest": {
+  "arianna|italy/piedmont/acts": {
+   "attempt": 1,
+   "audit": {
+    "match_neither": 1,
+    "match_new": 4,
+    "match_old": 0,
+    "method": "read again as the law's page on Arianna (iterlegcoordweb/dettaglioLegge.do: the database's own HTML view of the coordinated text; the check reads the normacat text service): the share of the words of the act's files found on the page, at least 0.97",
+    "rows": [
+     {
+      "id": "lr-1974-22",
+      "published": false,
+      "read": "https://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:1974;22",
+      "share": 1.0,
+      "verdict": "match_new"
+     },
+     {
+      "id": "lr-2010-5",
+      "published": false,
+      "read": "https://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:2010;5",
+      "share": 1.0,
+      "verdict": "match_new"
+     },
+     {
+      "id": "lr-2026-14",
+      "published": false,
+      "read": "https://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:2026;14",
+      "share": 0.9699,
+      "verdict": "match_neither"
+     },
+     {
+      "id": "lr-1985-30",
+      "published": false,
+      "read": "https://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:1985;30",
+      "share": 0.9997,
+      "verdict": "match_new"
+     },
+     {
+      "id": "lr-1978-31",
+      "published": false,
+      "read": "https://arianna.cr.piemonte.it/iterlegcoordweb/dettaglioLegge.do?urnLegge=urn:nir:regione.piemonte:legge:1978;31",
+      "share": 1.0,
+      "verdict": "match_new"
+     }
+    ],
+    "sampled": 5,
+    "unread": 0
+   },
+   "census": {
+    "checked": 33,
+    "current": 983,
+    "gone": 0,
+    "held": 983,
+    "newest_at_source": "2026-10-21",
+    "newest_in_repo": "2026-10-21",
+    "pending": 0,
+    "repo": 983,
+    "source_in_scope": 983
+   },
+   "check_id": "it-arianna-20261124T004015Z",
+   "commits": null,
+   "corpus": "italy/piedmont/acts",
+   "error": null,
+   "finished": "2026-11-24T00:49:50Z",
+   "flags": [
+    {
+     "detail": "1 of 5 read again by a second route disagree",
+     "flag": "audit-disagrees"
+    }
+   ],
+   "gap": 0,
+   "note": "first check: the baseline (nothing to compare with); open dataset: 983 regional laws in force (regulations, the Statute and repealed laws are outside this repository's scope); today's sweep compared 33 held laws with the text service",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 44,
+   "runner": "lawwatch italy (92c4e33d60)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": null,
+   "source": "arianna",
+   "started": "2026-11-24T00:40:15Z",
+   "unexplained": 0,
+   "update": {},
+   "verify": {
+    "cycle_days": 30,
+    "examples": [],
+    "explained": 0,
+    "held": 983,
+    "method": "the text in force of a thirtieth of the held laws a day (and of every law the open dataset shows new) read from the normacat text service, parsed with the builder's act_of and compared with the act's folder file for file; laws published by this check counted as compared (the gate read their folders back as the builder's append wrote them)",
+    "ok": true,
+    "versions_checked": 33,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}

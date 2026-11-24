@@ -1,0 +1,34 @@
+{
+ "sources": [
+  {
+   "id": "arianna",
+   "kind": "legislation",
+   "name": {
+    "en": "Arianna (Consiglio regionale del Piemonte)",
+    "it": "Arianna (Consiglio regionale del Piemonte)"
+   },
+   "url": "https://arianna.cr.piemonte.it/",
+   "reads": {
+    "en": "the open dataset of the regional laws in force (Regione Piemonte, one CSV), and the text in force of each new law and of a thirtieth of the held laws a day (normacat text service)",
+    "it": "il dataset aperto delle leggi regionali vigenti (Regione Piemonte, un CSV) e il testo vigente di ogni legge nuova e di un trentesimo delle leggi presenti qui ogni giorno (servizio testi normacat)"
+   },
+   "folders": [
+    "lr/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "italy/piedmont/acts"
+   ],
+   "interval": 3.2,
+   "allow": [
+    "lr/",
+    "data/paths.json"
+   ],
+   "note": {
+    "en": "the text service (serviziweb.csi.it) is read through the EU egress: it does not accept connections from the watcher's own address; the Statute is not held (Arianna's robots.txt disallows /leggistatutarie/)",
+    "it": "il servizio testi (serviziweb.csi.it) è letto attraverso l'uscita UE: non accetta connessioni dall'indirizzo del sorvegliante; lo Statuto non è presente (il robots.txt di Arianna esclude /leggistatutarie/)"
+   }
+  }
+ ]
+}
