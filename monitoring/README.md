@@ -6,18 +6,19 @@
 
 Come global-law monitora ogni paese: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Questa pagina fa lo stesso per Piemonte soltanto: ogni lettura di una fonte ufficiale, quando è avvenuta e con quale esito (atti aggiunti, modificati e rimossi). La forma leggibile dalle macchine è [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` come commit `Kind: check`, e mese per mese in [checks/](checks/).
 
-**Ultimo controllo:** 2026-11-24 00:49 UTC, Arianna (Consiglio regionale del Piemonte): 44 indirizzi letti; 0 aggiunti, 0 modificati, 0 rimossi; nessuna modifica; 0 non pubblicati, di cui 0 senza motivo. Segnalazioni: `audit-disagrees`.
+**Ultimo controllo:** 2026-11-24 01:22 UTC, Arianna (Consiglio regionale del Piemonte): 59 indirizzi letti; 0 aggiunti, 0 modificati, 0 rimossi; nessuna modifica; 0 non pubblicati, di cui 0 senza motivo.
 
 ## Fonti
 
 | Fonte | Cartelle | Frequenza | Ultimo controllo riuscito | Ultimo esito | Stato |
 | --- | --- | --- | --- | --- | --- |
-| [Arianna (Consiglio regionale del Piemonte)](https://arianna.cr.piemonte.it/) | `lr/` | ogni giorno | 2026-11-24 00:49 UTC | nessuna modifica | sorvegliata: il servizio testi (serviziweb.csi.it) è letto attraverso l'uscita UE: non accetta connessioni dall'indirizzo del sorvegliante; lo Statuto non è presente (il robots.txt di Arianna esclude /leggistatutarie/) |
+| [Arianna (Consiglio regionale del Piemonte)](https://arianna.cr.piemonte.it/) | `lr/` | ogni giorno | 2026-11-24 01:22 UTC | nessuna modifica | sorvegliata: il servizio testi (serviziweb.csi.it) è letto attraverso l'uscita UE: non accetta connessioni dall'indirizzo del sorvegliante; lo Statuto non è presente (il robots.txt di Arianna esclude /leggistatutarie/) |
 
 ## Gli ultimi 30 giorni
 
 | Inizio (UTC) | Fonte | Letti | Aggiunti | Modificati | Rimossi | Non pubblicati (senza motivo) | Esito | Commit |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 00:52](checks/2026-11.md#it-arianna-20261124t005215z) | arianna | 59 | 0 | 0 | 0 | 0 (0) | nessuna modifica | — |
 | [2026-11-24 00:40](checks/2026-11.md#it-arianna-20261124t004015z) | arianna | 44 | 0 | 0 | 0 | 0 (0) | nessuna modifica `audit-disagrees` | — |
 
 ## Verificalo da te

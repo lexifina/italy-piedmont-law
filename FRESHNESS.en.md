@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Arianna (Consiglio regionale del Piemonte) · `italy/piedmont/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 00:49 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-24 01:22 UTC**.
 - Acts held here: 983; current at the source: 983; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 33 of the 983 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 0 (—); with no reason: 0.

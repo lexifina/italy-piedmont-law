@@ -8,7 +8,7 @@ Come global-law misura quanto è aggiornato ogni paese: [global-law FRESHNESS.md
 
 ### Arianna (Consiglio regionale del Piemonte) · `italy/piedmont/acts`
 
-- Ultima lettura della fonte ufficiale, con ogni atto presente qui confrontato con essa: **2026-11-24 00:49 UTC**.
+- Ultima lettura della fonte ufficiale, con ogni atto presente qui confrontato con essa: **2026-11-24 01:22 UTC**.
 - Atti presenti qui: 983; aggiornati rispetto alla fonte: 983; modificati alla fonte dopo la versione presente qui: 0; non più presenti alla fonte: 0.
 - Confrontati con la fonte in questa lettura: 33 dei 983 atti presenti qui; gli altri non sono stati confrontati in questa lettura (vedi la nota del controllo).
 - Non pubblicati: 0 (—); senza motivo: 0.

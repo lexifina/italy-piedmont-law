@@ -8,6 +8,6 @@ Come global-law sorveglia le fonti di ogni paese: [global-law WATCHING.md](https
 
 | Fonte | Che cosa si legge | Cartelle | Frequenza | Ultima lettura | Stato |
 | --- | --- | --- | --- | --- | --- |
-| [Arianna (Consiglio regionale del Piemonte)](https://arianna.cr.piemonte.it/) | il dataset aperto delle leggi regionali vigenti (Regione Piemonte, un CSV) e il testo vigente di ogni legge nuova e di un trentesimo delle leggi presenti qui ogni giorno (servizio testi normacat) | `lr/` | ogni giorno | 2026-11-24 00:40 UTC | sorvegliata: il servizio testi (serviziweb.csi.it) è letto attraverso l'uscita UE: non accetta connessioni dall'indirizzo del sorvegliante; lo Statuto non è presente (il robots.txt di Arianna esclude /leggistatutarie/) |
+| [Arianna (Consiglio regionale del Piemonte)](https://arianna.cr.piemonte.it/) | il dataset aperto delle leggi regionali vigenti (Regione Piemonte, un CSV) e il testo vigente di ogni legge nuova e di un trentesimo delle leggi presenti qui ogni giorno (servizio testi normacat) | `lr/` | ogni giorno | 2026-11-24 00:52 UTC | sorvegliata: il servizio testi (serviziweb.csi.it) è letto attraverso l'uscita UE: non accetta connessioni dall'indirizzo del sorvegliante; lo Statuto non è presente (il robots.txt di Arianna esclude /leggistatutarie/) |
 
 Le fonti si leggono nel rispetto del loro robots.txt e delle loro condizioni, con pause tra le richieste.
